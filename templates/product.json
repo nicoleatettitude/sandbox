@@ -210,6 +210,7 @@
       "block_order": [
         "template--16163989553311__ca3cccb1-7ff9-4cfd-94d7-f86b3c64c4b8-heading-1"
       ],
+      "disabled": true,
       "settings": {
         "class": "",
         "full_width": true,
@@ -223,6 +224,7 @@
     },
     "6832ce17-5c6b-417f-8eaf-cda28325d245": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": false,
         "allow_transparent_header": false,
