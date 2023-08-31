@@ -7,8 +7,7 @@
 <style>
   #shopify-section-{{ section.id }}.article-banner {
     --article-banner-background: {%- if background_color != blank -%}
-      {{ background_color.rgb }}
-    {%- else -%}
+      {{ background_color.rgb }}{%- else -%}
       var(--text-color) / 0.05{%- endif -%};
     --article-banner-badge-background: var(--text-color) / 0.12;
 
@@ -31,8 +30,8 @@
     --article-banner-content-padding-block-end: var(--spacing-10);
     --article-banner-content-padding-inline: var(--container-gutter);
     --article-banner-image-overlay: {% if section.settings.layout == 'image_text_overlay' %}
-      {{ section.settings.overlay_color.rgb }}
-      /{{ section.settings.overlay_opacity | divided_by: 100.0 }}{% else %}
+      {{ section.settings.overlay_color.rgb }}/{{ section.settings.overlay_opacity | divided_by: 100.0 }}
+    {% else %}
       0 0 0 / 0{% endif %};
 
     {%- if section.settings.allow_transparent_header -%}
@@ -272,7 +271,7 @@
         "options": [
           {
             "label": "Small",
-            "value": "500px"
+            "value": "750px"
           }, {
             "label": "Medium",
             "value": "950px"
