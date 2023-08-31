@@ -69,7 +69,7 @@
             "content": "<p>Since our inception, ettitude has saved over 3 million liters of water and over 70,000 acres of land through our use of sustainable materials. We have also prevented over 1,000 tons of carbon dioxide emissions through our carbon offset program and focus on energy efficiency. Additionally, our ethical practices ensure that our products are made without harming the environment or the people who make them.<\/p>",
             "style": "fill",
             "size": "xl",
-            "text": "Button text",
+            "text": "",
             "url": "",
             "background": "",
             "text_color": ""
@@ -104,9 +104,9 @@
         "full_width": true,
         "content_width": "medium",
         "text_position": "start",
-        "background": "",
+        "background": "#51563f",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     }
   },
