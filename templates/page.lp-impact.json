@@ -157,6 +157,9 @@
         "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-2",
         "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3"
       ],
+      "custom_css": [
+        "h2 {font-size: 40px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
