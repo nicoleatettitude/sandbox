@@ -296,8 +296,8 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#e6ebe6",
-        "background_gradient": "",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "linear-gradient(180deg, rgba(230, 235, 230, 1), rgba(255, 255, 255, 1) 100%)",
         "text_color": ""
       }
     },
