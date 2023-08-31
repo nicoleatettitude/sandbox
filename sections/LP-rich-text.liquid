@@ -65,11 +65,7 @@
           {%- when 'image' -%}
           {%- if block.settings.image != blank -%}
             <div {{ block.shopify_attributes }} style="margin-block-start: 0">
-              {%- capture image_style_attribute -%}
-                {% if section.settings.text_position == 'center' %}
-                  margin-left: auto;
-                  margin-right: auto;{% endif %}
-              {%- endcapture -%}
+              {%- capture image_style_attribute -%}{%- endcapture -%}
 
               {%- if block.settings.width_mode == 'custom' -%}
                 {%- capture image_style_attribute -%}
