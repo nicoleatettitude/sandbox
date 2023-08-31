@@ -109,7 +109,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Intro_540x_3ad81c1e-6786-4251-b43c-66458e60c7f4.webp",
             "width_mode": "custom",
-            "max_width": 1000,
+            "max_width": 400,
             "mobile_max_width": 400,
             "right_image": true
           }
@@ -126,7 +126,7 @@
         "padding_bottom": 36,
         "full_width": false,
         "content_width": "small",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ede3d9",
         "background_gradient": "",
         "text_color": ""
