@@ -201,8 +201,8 @@
             "content": "<p><strong>Produces 52% fewer carbon emissions<\/strong>, 25.9kg—the equivalent to driving 64 miles.<\/p>",
             "style": "fill",
             "size": "xl",
-            "text": "Button text",
-            "url": "",
+            "text": "Read our Impact Report",
+            "url": "shopify:\/\/pages\/impact",
             "background": "",
             "text_color": ""
           }
