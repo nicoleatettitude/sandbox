@@ -1,1 +1,691 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame_92_4.png","mobile_image":"shopify:\/\/shop_images\/Frame_83_2.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"shopify:\/\/products\/bamboo-lyocell-sheet-set","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"","background_gradient":""}}},"block_order":["slide-1"],"settings":{"full_width":true,"allow_transparent_header":false,"image_size":"auto","controls_type":"numbers","transition_type":"fade_with_text","autoplay":true,"cycle_speed":6,"background":"#f2f2f2","background_gradient":"linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"}},"featured-collection":{"type":"featured-collection","settings":{"collection":"shop-all","products":[],"full_width":false,"stack_products":false,"show_progress_bar":false,"products_count":6,"products_per_row_mobile":"2","products_per_row_desktop":4,"subheading":"","title":"Bestsellers","content":"","link_url":"shopify:\/\/collections\/shop-all","link_text":"View all","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":"","hide_price":true}},"8b77124b-537e-4ac6-b86e-f44e71b93041":{"type":"multi-column","blocks":{"afadb848-35e0-4725-a94a-26d9ef86ae76":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Seal.png","column_size":"4","title":"","heading_tag":"h4","content":"","link_url":"","link_text":"","link_style":"link"}},"template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-1":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Icon.png","column_size":"4","title":"SCIENTIFICALLY PROVEN TO HELP YOU REST","heading_tag":"h5","content":"","link_url":"","link_text":"","link_style":"link"}},"template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-2":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Icon_1.png","column_size":"4","title":"NATURALLY COOLING & BREATHABLE","heading_tag":"h5","content":"","link_url":"","link_text":"","link_style":"link"}},"template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-3":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Icon_2.png","column_size":"4","title":"DERIVED FROM RENEWABLE PLANT RESOURCES","heading_tag":"h5","content":"","link_url":"","link_text":"","link_style":"link"}}},"block_order":["afadb848-35e0-4725-a94a-26d9ef86ae76","template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-1","template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-2","template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-3"],"disabled":true,"settings":{"full_width":true,"stack_on_mobile":true,"gap":"medium","text_alignment":"center","subheading":"","title":"","content":"","background":"#e7ebe2","background_gradient":"","text_color":""}},"0bd0a4c7-7916-406a-8163-aaa34b38bfcc":{"type":"text-with-icons","blocks":{"template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-1":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Seal.png","mobile_icon_width":120,"icon_width":120,"icon_background_type":"none","icon_background":"","icon_color":"","title":"","content":""}},"template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-2":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Icon.png","mobile_icon_width":52,"icon_width":40,"icon_background_type":"none","icon_background":"","icon_color":"","title":"SCIENTIFICALLY PROVEN TO HELP YOU REST","content":""}},"template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-3":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Icon_2.png","mobile_icon_width":52,"icon_width":40,"icon_background_type":"none","icon_background":"","icon_color":"","title":"NATURALLY COOLING & BREATHABLE","content":""}},"98cd5a7f-96a3-4cf1-a761-a2f80013ca1b":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Icon_1.png","mobile_icon_width":52,"icon_width":40,"icon_background_type":"none","icon_background":"","icon_color":"","title":"DERIVED FROM RENEWABLE PLANT RESOURCES","content":""}}},"block_order":["template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-1","template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-2","template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-3","98cd5a7f-96a3-4cf1-a761-a2f80013ca1b"],"settings":{"full_width":true,"stack_on_mobile":true,"title":"","heading_tag":"h5","text_alignment":"center","icon_spacing":"large","background":"#e7ebe2","background_gradient":"","text_color":""}},"93bf31c5-205c-48ec-84c9-c3f69b5616b6":{"type":"rich-text","blocks":{"template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1":{"type":"heading","settings":{"text":"RETHINK. RENEW. REWARD YOU.","heading_tag":"h1","text_color":"","gradient":""}},"template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1":{"type":"richtext","settings":{"content":"<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>"}},"4c481a40-5ce5-4648-91f3-46db6553c0d2":{"type":"button","settings":{"style":"fill","size":"lg","text":"Shop All","url":"shopify:\/\/collections\/shop-all","background":"","text_color":""}}},"block_order":["template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1","template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1","4c481a40-5ce5-4648-91f3-46db6553c0d2"],"disabled":true,"settings":{"class":"collection_list_header","full_width":true,"content_width":"small","text_position":"start","background":"","background_gradient":"","text_color":"","right_image":false}},"8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea":{"type":"LP-rich-text","blocks":{"template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1":{"type":"heading","settings":{"text":"RETHINK. RENEW. REWARD YOU.","heading_tag":"h1","text_color":"","gradient":""}},"template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1":{"type":"richtext","settings":{"content":"<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>","style":"fill","size":"xl","text":"Shop All","url":"shopify:\/\/collections\/shop-all","background":"","text_color":""}}},"block_order":["template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1","template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1"],"settings":{"class":"collection_list_header","padding_top":36,"padding_bottom":36,"full_width":true,"content_width":"large","text_position":"start","background":"","background_gradient":"","text_color":""}},"collection-list":{"type":"collection-list","blocks":{"collection-1":{"type":"collection","settings":{"collection":"sheet-sets","image":"shopify:\/\/shop_images\/Collection_-_Bedding.png","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"collection-2":{"type":"collection","settings":{"collection":"shop-all","image":"shopify:\/\/shop_images\/Collection_-_Bath.png","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"collection-3":{"type":"collection","settings":{"collection":"shop-all","image":"shopify:\/\/shop_images\/Collection_-_Baby.png","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}}},"block_order":["collection-1","collection-2","collection-3"],"settings":{"class":"collection_list_wrapper","full_width":false,"stack_collections":false,"collections_per_row":3,"show_progress_bar":false,"subheading":"","title":"","content":"","link_url":"shopify:\/\/products\/bamboo-lyocell-sheet-set","link_text":"Shop All","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"7f3b2053-f144-4b8e-ac81-a9e0c132d588":{"type":"scrolling-text","settings":{"full_width":true,"text":"REVIVEㅤRISE AND THRIVEㅤRECHARGE","text_size":"medium","text_style":"fill","scrolling_mode":"auto","scrolling_speed":10,"background":"","background_gradient":"","text_color":"","text_gradient":""}},"804415aa-d6b0-45be-a426-46f883be2278":{"type":"blog-posts","blocks":{"template--16163989323935__804415aa-d6b0-45be-a426-46f883be2278-blog-1":{"type":"blog","settings":{"blog":"news","posts_count":2,"stack_items":false}}},"block_order":["template--16163989323935__804415aa-d6b0-45be-a426-46f883be2278-blog-1"],"settings":{"full_width":false,"show_excerpt":true,"show_date":false,"show_author":false,"show_comments_count":false,"show_category":false,"subheading":"","title":"","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"13d27dbf-322c-4a67-9307-5f717f9b6528":{"type":"testimonials","blocks":{"template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/Review_Img.png","round_avatar":true,"show_rating":true,"rating":4,"author":"John S.","title":"Testimonial 1","content":"<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"}},"template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":5,"author":"Mary U.","title":"Testimonial 2","content":"<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"}},"template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":4,"author":"Joshua A.","title":"Testimonial 3","content":"<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"}},"17b7b566-40e2-424a-a497-9dbfb72f60d7":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":4,"author":"","title":"Testimonial","content":"<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"}}},"block_order":["template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1","template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2","template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3","17b7b566-40e2-424a-a497-9dbfb72f60d7"],"settings":{"full_width":false,"stack_testimonials":false,"subheading":"","title":"Feel all the fresh <i>feels<\/i>","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","testimonial_card_background":"","testimonial_card_text_color":""}},"744bd597-ee5f-4976-b070-08c80815920c":{"type":"logo-list","blocks":{"template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-1":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/image_2.png","logo_width":300,"link":""}},"template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/image_2.png","logo_width":300,"link":""}},"template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/image_2.png","logo_width":300,"link":""}},"template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/image_2.png","logo_width":300,"link":""}},"2b979629-4042-4aa7-b302-36f94bdc03ac":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/image_2.png","logo_width":300,"link":""}}},"block_order":["template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-1","template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2","template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3","template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4","2b979629-4042-4aa7-b302-36f94bdc03ac"],"settings":{"full_width":true,"stack_mobile":false,"title":"AS SEEN IN (AND SLEPT ON)","content":"","text_alignment":"start","items_per_row":5,"background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","logo_item_background":"","logo_item_border":""}},"d587d4aa-ca4f-43c3-9bbc-74dd413be1f5":{"type":"multi-column","blocks":{"template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Group_4098.png","column_size":"3","title":"","heading_tag":"h4","content":"","link_url":"","link_text":"","link_style":"link"}},"template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Module_02.png","column_size":"3","title":"","heading_tag":"h4","content":"","link_url":"","link_text":"","link_style":"link"}},"template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Module_03.png","column_size":"3","title":"","heading_tag":"h4","content":"","link_url":"","link_text":"","link_style":"link"}}},"block_order":["template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1","template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2","template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3"],"settings":{"full_width":true,"stack_on_mobile":false,"gap":"medium","text_alignment":"start","subheading":"","title":"","content":"","background":"","background_gradient":"","text_color":""}},"4e8835d1-651d-44f2-be4e-a44691434b67":{"type":"slideshow","blocks":{"template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Section_08__IG_Feed.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"","background_gradient":""}}},"block_order":["template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1"],"settings":{"full_width":false,"allow_transparent_header":false,"image_size":"auto","controls_type":"dots","transition_type":"fade_with_text","autoplay":false,"cycle_speed":6,"background":"#f2f2f2","background_gradient":""}}},"order":["slideshow","featured-collection","8b77124b-537e-4ac6-b86e-f44e71b93041","0bd0a4c7-7916-406a-8163-aaa34b38bfcc","93bf31c5-205c-48ec-84c9-c3f69b5616b6","8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea","collection-list","7f3b2053-f144-4b8e-ac81-a9e0c132d588","804415aa-d6b0-45be-a426-46f883be2278","13d27dbf-322c-4a67-9307-5f717f9b6528","744bd597-ee5f-4976-b070-08c80815920c","d587d4aa-ca4f-43c3-9bbc-74dd413be1f5","4e8835d1-651d-44f2-be4e-a44691434b67"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_92_4.png",
+            "mobile_image": "shopify:\/\/shop_images\/Frame_83_2.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify:\/\/products\/bamboo-lyocell-sheet-set",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "shop-all",
+        "products": [
+
+        ],
+        "full_width": false,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Bestsellers",
+        "content": "",
+        "link_url": "shopify:\/\/collections\/shop-all",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "hide_price": true
+      }
+    },
+    "8b77124b-537e-4ac6-b86e-f44e71b93041": {
+      "type": "multi-column",
+      "blocks": {
+        "afadb848-35e0-4725-a94a-26d9ef86ae76": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Seal.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon.png",
+            "column_size": "4",
+            "title": "SCIENTIFICALLY PROVEN TO HELP YOU REST",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon_1.png",
+            "column_size": "4",
+            "title": "NATURALLY COOLING & BREATHABLE",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon_2.png",
+            "column_size": "4",
+            "title": "DERIVED FROM RENEWABLE PLANT RESOURCES",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "afadb848-35e0-4725-a94a-26d9ef86ae76",
+        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-1",
+        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-2",
+        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#e7ebe2",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "0bd0a4c7-7916-406a-8163-aaa34b38bfcc": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Seal.png",
+            "mobile_icon_width": 120,
+            "icon_width": 120,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": ""
+          }
+        },
+        "template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Icon.png",
+            "mobile_icon_width": 52,
+            "icon_width": 40,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "SCIENTIFICALLY PROVEN TO HELP YOU REST",
+            "content": ""
+          }
+        },
+        "template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Icon_2.png",
+            "mobile_icon_width": 52,
+            "icon_width": 40,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "NATURALLY COOLING & BREATHABLE",
+            "content": ""
+          }
+        },
+        "98cd5a7f-96a3-4cf1-a761-a2f80013ca1b": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Icon_1.png",
+            "mobile_icon_width": 52,
+            "icon_width": 40,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "DERIVED FROM RENEWABLE PLANT RESOURCES",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-1",
+        "template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-2",
+        "template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-3",
+        "98cd5a7f-96a3-4cf1-a761-a2f80013ca1b"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "large",
+        "background": "#e7ebe2",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "93bf31c5-205c-48ec-84c9-c3f69b5616b6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "RETHINK. RENEW. REWARD YOU.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>"
+          }
+        },
+        "4c481a40-5ce5-4648-91f3-46db6553c0d2": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Shop All",
+            "url": "shopify:\/\/collections\/shop-all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1",
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1",
+        "4c481a40-5ce5-4648-91f3-46db6553c0d2"
+      ],
+      "disabled": true,
+      "settings": {
+        "class": "collection_list_header",
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "right_image": false
+      }
+    },
+    "8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "RETHINK. RENEW. REWARD YOU.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "Shop All",
+            "url": "shopify:\/\/collections\/shop-all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1",
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1"
+      ],
+      "settings": {
+        "class": "collection_list_header",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "sheet-sets",
+            "image": "shopify:\/\/shop_images\/Collection_-_Bedding.png",
+            "subheading": "",
+            "title": "‎",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop-all",
+            "image": "shopify:\/\/shop_images\/Collection_-_Bath.png",
+            "subheading": "",
+            "title": "‎",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop-all",
+            "image": "shopify:\/\/shop_images\/Collection_-_Baby.png",
+            "subheading": "",
+            "title": "‎",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "settings": {
+        "class": "collection_list_wrapper",
+        "full_width": false,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify:\/\/products\/bamboo-lyocell-sheet-set",
+        "link_text": "Shop All",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "7f3b2053-f144-4b8e-ac81-a9e0c132d588": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "REVIVEㅤRISE AND THRIVEㅤRECHARGE",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "804415aa-d6b0-45be-a426-46f883be2278": {
+      "type": "blog-posts",
+      "blocks": {
+        "template--16163989323935__804415aa-d6b0-45be-a426-46f883be2278-blog-1": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 2,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__804415aa-d6b0-45be-a426-46f883be2278-blog-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "show_excerpt": true,
+        "show_date": false,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "13d27dbf-322c-4a67-9307-5f717f9b6528": {
+      "type": "testimonials",
+      "blocks": {
+        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Review_Img.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+          }
+        },
+        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+          }
+        },
+        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+          }
+        },
+        "17b7b566-40e2-424a-a497-9dbfb72f60d7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1",
+        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2",
+        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3",
+        "17b7b566-40e2-424a-a497-9dbfb72f60d7"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Feel all the fresh <i>feels<\/i>",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "744bd597-ee5f-4976-b070-08c80815920c": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/image_2.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/image_2.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/image_2.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/image_2.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "2b979629-4042-4aa7-b302-36f94bdc03ac": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/image_2.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-1",
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2",
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3",
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4",
+        "2b979629-4042-4aa7-b302-36f94bdc03ac"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "AS SEEN IN (AND SLEPT ON)",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "d587d4aa-ca4f-43c3-9bbc-74dd413be1f5": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_4098.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Module_02.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Module_03.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1",
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2",
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "4e8835d1-651d-44f2-be4e-a44691434b67": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Section_08__IG_Feed.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "8b77124b-537e-4ac6-b86e-f44e71b93041",
+    "0bd0a4c7-7916-406a-8163-aaa34b38bfcc",
+    "93bf31c5-205c-48ec-84c9-c3f69b5616b6",
+    "8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea",
+    "collection-list",
+    "7f3b2053-f144-4b8e-ac81-a9e0c132d588",
+    "804415aa-d6b0-45be-a426-46f883be2278",
+    "13d27dbf-322c-4a67-9307-5f717f9b6528",
+    "744bd597-ee5f-4976-b070-08c80815920c",
+    "d587d4aa-ca4f-43c3-9bbc-74dd413be1f5",
+    "4e8835d1-651d-44f2-be4e-a44691434b67"
+  ]
+}
