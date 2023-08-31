@@ -3,16 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "8fd1ff74-1d31-4518-ac3d-f0f33e818bb1": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/product-rating-image\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "api_key": "811785fd-ee6d-4835-9d30-a276b4e896a1",
-            "store_hash": "300092",
-            "product_id": "",
-            "width": "",
-            "height": ""
-          }
-        },
         "badges": {
           "type": "badges",
           "settings": {
@@ -30,10 +20,13 @@
             "text": "<p>Made from 100% bamboo lyocell, the only fabric free of harmful chemicals and plastics<\/p>"
           }
         },
-        "rating": {
-          "type": "rating",
+        "e9d79047-17d7-4051-8642-fd8d2f448c64": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
-            "show_empty": true
+            "use_metafields": false,
+            "sku_tagtype": "sku",
+            "is_featured_product": false,
+            "featured_product_handle": ""
           }
         },
         "price": {
@@ -163,11 +156,10 @@
         }
       },
       "block_order": [
-        "8fd1ff74-1d31-4518-ac3d-f0f33e818bb1",
         "badges",
         "title",
         "35aa9c0a-e282-40e8-8d63-82feb2a7ce7c",
-        "rating",
+        "e9d79047-17d7-4051-8642-fd8d2f448c64",
         "price",
         "payment_terms",
         "separator",
