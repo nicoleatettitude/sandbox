@@ -8,7 +8,7 @@
       padding-bottom: {{ section.settings.padding_bottom }}
       px;
       --rich-text-max-width: {% if section.settings.content_width == 'small' %}
-        500px{% elsif section.settings.content_width == 'medium' %}
+        650px{% elsif section.settings.content_width == 'medium' %}
         780px{% else %}
         100%{% endif %}
     }
@@ -66,7 +66,9 @@
           {%- if block.settings.image != blank -%}
             <div {{ block.shopify_attributes }} style="margin-block-start: 0">
               {%- capture image_style_attribute -%}
-                {% if section.settings.text_position == 'center' %}margin-inline: auto;{% endif %}
+                {% if section.settings.text_position == 'center' %}
+                  margin-left: auto;
+                  margin-right: auto;{% endif %}
               {%- endcapture -%}
 
               {%- if block.settings.width_mode == 'custom' -%}
