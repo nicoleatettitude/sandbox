@@ -2,11 +2,109 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "152b4e09-4816-4c8d-bf9a-5d2ce93761d6": {
+      "type": "video",
+      "blocks": {
+        "template--16178222301343__152b4e09-4816-4c8d-bf9a-5d2ce93761d6-play-1": {
+          "type": "play",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16178222301343__152b4e09-4816-4c8d-bf9a-5d2ce93761d6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16178222301343__152b4e09-4816-4c8d-bf9a-5d2ce93761d6-play-1",
+        "template--16178222301343__152b4e09-4816-4c8d-bf9a-5d2ce93761d6-heading-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=Rrsg2cl1fSw",
+        "poster": "shopify:\/\/shop_images\/BBB_copy_53ab55b3-fb7f-44d4-906d-6da9a12a1410.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "46a9bbbf-93a3-4069-afc9-344ad0e931ee": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16178222301343__46a9bbbf-93a3-4069-afc9-344ad0e931ee-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shop_SheetSets_f6462918-4dc1-4b08-bad2-88e70a96b612.jpg",
+            "column_size": "3",
+            "title": "Shop Sheet Sets →",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "shopify:\/\/products\/bamboo-lyocell-sheet-set",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16178222301343__46a9bbbf-93a3-4069-afc9-344ad0e931ee-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shop_Pillowcase_Sets_dbcc91f1-89c8-4df5-ae49-55edfbf20506.jpg",
+            "column_size": "3",
+            "title": "Shop Pillowcase Sets →",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "shopify:\/\/products\/bamboo-lyocell-pillowcase-set",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16178222301343__46a9bbbf-93a3-4069-afc9-344ad0e931ee-item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shop_Duvet_Covers_0b4aa9f6-e4b7-40be-a42f-c75106d2a858.jpg",
+            "column_size": "3",
+            "title": "Shop Duvet Covers →",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "shopify:\/\/products\/bamboo-lyocell-duvet-cover",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "template--16178222301343__46a9bbbf-93a3-4069-afc9-344ad0e931ee-item-1",
+        "template--16178222301343__46a9bbbf-93a3-4069-afc9-344ad0e931ee-item-2",
+        "template--16178222301343__46a9bbbf-93a3-4069-afc9-344ad0e931ee-item-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Shop best sellers",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "152b4e09-4816-4c8d-bf9a-5d2ce93761d6",
+    "46a9bbbf-93a3-4069-afc9-344ad0e931ee"
   ]
 }
