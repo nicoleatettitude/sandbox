@@ -233,6 +233,188 @@
         "text_color": "",
         "right_image": false
       }
+    },
+    "8a5fa318-a102-4ee4-ace3-d63b0649864c": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16181820063903__8a5fa318-a102-4ee4-ace3-d63b0649864c-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shop_SheetSets_f6462918-4dc1-4b08-bad2-88e70a96b612.jpg",
+            "column_size": "3",
+            "title": "Shop Sheet Sets →",
+            "heading_tag": "h4",
+            "content": "<p>Scientifically proven to improve your ZZZs<\/p>",
+            "link_url": "shopify:\/\/products\/bamboo-lyocell-sheet-set",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16181820063903__8a5fa318-a102-4ee4-ace3-d63b0649864c-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shop_Pillowcase_Sets_dbcc91f1-89c8-4df5-ae49-55edfbf20506.jpg",
+            "column_size": "3",
+            "title": "Shop Pillowcase Sets →",
+            "heading_tag": "h4",
+            "content": "<p>Gentle on hair and skin for true beauty sleep<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16181820063903__8a5fa318-a102-4ee4-ace3-d63b0649864c-item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shop_Duvet_Covers_0b4aa9f6-e4b7-40be-a42f-c75106d2a858.jpg",
+            "column_size": "3",
+            "title": "Shop Duvet Covers →",
+            "heading_tag": "h4",
+            "content": "<p>Light, breathable, and comfy in every season<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "template--16181820063903__8a5fa318-a102-4ee4-ace3-d63b0649864c-item-1",
+        "template--16181820063903__8a5fa318-a102-4ee4-ace3-d63b0649864c-item-2",
+        "template--16181820063903__8a5fa318-a102-4ee4-ace3-d63b0649864c-item-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "A click away to your best sleep ever",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1ba79265-61fa-4d0e-aa17-6eb45111913f": {
+      "type": "multi-column",
+      "blocks": {
+        "c3c39f40-df5d-42a4-a3ab-26aeae77407f": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_75.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>“If you’ve never tried bamboo sheets before, you’re in for a treat.”<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "5336eea0-9345-4d79-ade5-66165f8385ad": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_75-1.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>\"They’re alllll the things you’d want in a glorious set of bed sheets: cooling, hypoallergenic, and luxuriously silky.\"<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "c54b6222-d978-44e6-8250-9ba559731b28": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-business-insiders_320x_1_5b86c212-fc8b-416f-bbdb-c3a92f93babe.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>“ettitude’s pillowcases helped my skin. Since using this bed set, my normally acne-splattered skin has been clear as day.”<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "e19449e7-8b6a-420a-a3e6-015fd655dc2f": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Goop_logo_1_7487dba2-9498-40d3-8990-3f4a4fa56a5a.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>“Haven’t needed melatonin since my first sleep on these sheets!”<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "c3c39f40-df5d-42a4-a3ab-26aeae77407f",
+        "5336eea0-9345-4d79-ade5-66165f8385ad",
+        "c54b6222-d978-44e6-8250-9ba559731b28",
+        "e19449e7-8b6a-420a-a3e6-015fd655dc2f"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "A click away to your best sleep ever",
+        "content": "",
+        "background": "#f2efed",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "83208fdf-7cfa-496b-808d-88cf15331ba2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16181820063903__83208fdf-7cfa-496b-808d-88cf15331ba2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Want to try sleeping with us?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16181820063903__83208fdf-7cfa-496b-808d-88cf15331ba2-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Try any bedding for 30 nights risk-free and return them with free shipping—no questions asked.<\/p>"
+          }
+        },
+        "321f940b-f67b-4e74-8f20-017fa37b676e": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Snooze risk-free",
+            "url": "",
+            "background": "#4e505b",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16181820063903__83208fdf-7cfa-496b-808d-88cf15331ba2-heading-1",
+        "template--16181820063903__83208fdf-7cfa-496b-808d-88cf15331ba2-richtext-1",
+        "321f940b-f67b-4e74-8f20-017fa37b676e"
+      ],
+      "settings": {
+        "class": "",
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "right_image": false
+      }
     }
   },
   "order": [
@@ -241,6 +423,9 @@
     "819bfc6a-b273-4ace-a466-175459c9123d",
     "e6920efa-566b-449f-83c5-9cdab02ce63d",
     "b801d9ed-77c3-4c77-9a6f-1c03c170236a",
-    "4706e996-89c9-41a3-97b3-f3ad516136cc"
+    "4706e996-89c9-41a3-97b3-f3ad516136cc",
+    "8a5fa318-a102-4ee4-ace3-d63b0649864c",
+    "1ba79265-61fa-4d0e-aa17-6eb45111913f",
+    "83208fdf-7cfa-496b-808d-88cf15331ba2"
   ]
 }
