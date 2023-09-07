@@ -20,7 +20,7 @@
         "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Want to get better in bed (at sleeping)? You've come to the right place. Cozy up with $25 off all bedding with code <\/p>"
+            "content": "<p>Want to get better in bed (at sleeping)? You've come to the right place. Cozy up with $25 off all bedding with code {{ page.metafields.custom.podcast_code.value }}<\/p>"
           }
         }
       },
@@ -41,10 +41,121 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "819bfc6a-b273-4ace-a466-175459c9123d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16181820063903__819bfc6a-b273-4ace-a466-175459c9123d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Wrap yourself in CleanBamboo®",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16181820063903__819bfc6a-b273-4ace-a466-175459c9123d-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Feel the difference of bedding, bath, and loungewear that’s better for the earth and you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16181820063903__819bfc6a-b273-4ace-a466-175459c9123d-heading-1",
+        "template--16181820063903__819bfc6a-b273-4ace-a466-175459c9123d-richtext-1"
+      ],
+      "settings": {
+        "class": "",
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "right_image": false
+      }
+    },
+    "e6920efa-566b-449f-83c5-9cdab02ce63d": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16181820063903__e6920efa-566b-449f-83c5-9cdab02ce63d-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Statistic-1_b9f8f115-fa33-479e-997c-016318f211d1.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16181820063903__e6920efa-566b-449f-83c5-9cdab02ce63d-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Statistic-2_fc67bfe8-f1cd-4b41-8274-e5f19218b5e7.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16181820063903__e6920efa-566b-449f-83c5-9cdab02ce63d-item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Statistic-3_f160e478-7a93-4239-969b-641ac5178ce0.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "a36e8294-17d0-4bf1-9730-ff4d8cdefda6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Statistic-4_2f5b4b44-8107-409f-8075-573724b92b70.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "template--16181820063903__e6920efa-566b-449f-83c5-9cdab02ce63d-item-1",
+        "template--16181820063903__e6920efa-566b-449f-83c5-9cdab02ce63d-item-2",
+        "template--16181820063903__e6920efa-566b-449f-83c5-9cdab02ce63d-item-3",
+        "a36e8294-17d0-4bf1-9730-ff4d8cdefda6"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "a3b29e97-dbe0-4a87-9d8e-711e7ed08edb"
+    "a3b29e97-dbe0-4a87-9d8e-711e7ed08edb",
+    "819bfc6a-b273-4ace-a466-175459c9123d",
+    "e6920efa-566b-449f-83c5-9cdab02ce63d"
   ]
 }
