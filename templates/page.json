@@ -12,7 +12,7 @@
         "a87d7c8a-f4e4-4538-9d5a-078448de466d": {
           "type": "heading",
           "settings": {
-            "text": "Hey there,",
+            "text": "Hey there, {{ page.metafields.custom.podcastname.value }} listeners",
             "heading_tag": "h1"
           }
         },
@@ -106,7 +106,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     }
