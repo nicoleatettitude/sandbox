@@ -14,7 +14,7 @@
           "type": "heading",
           "settings": {
             "text": "Hey there, {{ page.metafields.custom.podcastname.value }} listeners",
-            "heading_tag": "h3"
+            "heading_tag": "h0"
           }
         },
         "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1": {
