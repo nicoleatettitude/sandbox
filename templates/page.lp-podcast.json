@@ -216,7 +216,7 @@
         "template--16181820063903__4706e996-89c9-41a3-97b3-f3ad516136cc-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use code {{ page.metafields.custom.podcast_code.value }}at checkout for $25 off your first bedding order over $150, excluding delivery fees, taxes, and customs. Valid on all bedding products on www.ettitude.com until . Excludes gift cards. Offer cannot be combined with other discounts or promotions.<\/p>"
+            "content": "<p>Use code {{ page.metafields.custom.podcast_code.value }}at checkout for $25 off your first bedding order over $150, excluding delivery fees, taxes, and customs. Valid on all bedding products on www.ettitude.com until {{ page.metafields.custom.podcast_date | metafield_tag }}. Excludes gift cards. Offer cannot be combined with other discounts or promotions.<\/p>"
           }
         }
       },
