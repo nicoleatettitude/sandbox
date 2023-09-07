@@ -14,7 +14,7 @@
           "type": "heading",
           "settings": {
             "text": "Hey there, {{ page.metafields.custom.podcastname.value }} listeners",
-            "heading_tag": "h0"
+            "heading_tag": "h1"
           }
         },
         "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1": {
@@ -44,7 +44,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify:\/\/shop_images\/4._Podcast_LP_2023_desk_91278f0f-54ae-46e8-861f-6ed38780a8fb.jpg",
         "mobile_image": "shopify:\/\/shop_images\/4._Podcast_LP_2023_Mob.jpg",
         "mobile_text_position": "place-self-center text-center",
