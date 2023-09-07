@@ -166,41 +166,48 @@
     "b801d9ed-77c3-4c77-9a6f-1c03c170236a": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-subheading-1": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-heading-1": {
+        "32df2960-049e-410a-b1fa-1a4d41913756": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "Get $25 off",
+            "heading_tag": "h0"
           }
         },
         "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>all bamboo bedding with code {{ page.metafields.custom.podcast_code.value }}<\/p>"
+          }
+        },
+        "4a34b562-203e-4c78-952a-9e196d3ae556": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Shop Now",
+            "url": "shopify:\/\/collections\/shop-all",
+            "background": "#4e505b",
+            "text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-subheading-1",
-        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-heading-1",
-        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-richtext-1"
+        "32df2960-049e-410a-b1fa-1a4d41913756",
+        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-richtext-1",
+        "4a34b562-203e-4c78-952a-9e196d3ae556"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/DESKTOP_HERO_PodcastLP-2_6c295e18-b34f-47dc-81cc-f277f3d3abec_1.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/MOB_HERO_PodcastLP-2_65854f62-0f7f-4e5e-abdf-7e61e83f4e50.jpg",
+        "mobile_text_position": "place-self-start-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#1a1a1a",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     }
   },
