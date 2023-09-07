@@ -20,7 +20,7 @@
         "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Want to get better in bed (at sleeping)? You've come to the right place. Cozy up with $25 off all bedding with code {{ page.metafields.custom.podcast_code.value }}<\/p>"
+            "content": "<p>Want to get better in bed (at sleeping)? You've come to the right place. <\/p><p>Cozy up with $25 off all bedding with code {{ page.metafields.custom.podcast_code.value }}<\/p>"
           }
         },
         "9e0f80af-f4d6-4252-a127-667e32b39eb9": {
