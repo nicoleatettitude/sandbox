@@ -22,11 +22,23 @@
           "settings": {
             "content": "<p>Want to get better in bed (at sleeping)? You've come to the right place. Cozy up with $25 off all bedding with code {{ page.metafields.custom.podcast_code.value }}<\/p>"
           }
+        },
+        "9e0f80af-f4d6-4252-a127-667e32b39eb9": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Shop Now",
+            "url": "shopify:\/\/collections",
+            "background": "#ffffff",
+            "text_color": "#1a1a1a"
+          }
         }
       },
       "block_order": [
         "a87d7c8a-f4e4-4538-9d5a-078448de466d",
-        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1"
+        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1",
+        "9e0f80af-f4d6-4252-a127-667e32b39eb9"
       ],
       "settings": {
         "full_width": true,
@@ -39,7 +51,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "819bfc6a-b273-4ace-a466-175459c9123d": {
@@ -150,12 +162,53 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "b801d9ed-77c3-4c77-9a6f-1c03c170236a": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-subheading-1",
+        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-heading-1",
+        "template--16181820063903__b801d9ed-77c3-4c77-9a6f-1c03c170236a-richtext-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "main",
     "a3b29e97-dbe0-4a87-9d8e-711e7ed08edb",
     "819bfc6a-b273-4ace-a466-175459c9123d",
-    "e6920efa-566b-449f-83c5-9cdab02ce63d"
+    "e6920efa-566b-449f-83c5-9cdab02ce63d",
+    "b801d9ed-77c3-4c77-9a6f-1c03c170236a"
   ]
 }
