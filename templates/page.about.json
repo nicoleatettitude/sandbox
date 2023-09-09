@@ -698,6 +698,80 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "31f3b5f9-f5d4-4be3-92bf-e6c33988d81f": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16178178556063__31f3b5f9-f5d4-4be3-92bf-e6c33988d81f-item-1": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "A Regenerative Future Starts at Home",
+            "heading_tag": "h2",
+            "content": "<p>Wrap yourself in revitalization.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16178178556063__31f3b5f9-f5d4-4be3-92bf-e6c33988d81f-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product_01.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16178178556063__31f3b5f9-f5d4-4be3-92bf-e6c33988d81f-item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product_02.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "2b2ac68c-d4fc-4c50-978f-b809d803fd65": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product_03.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "template--16178178556063__31f3b5f9-f5d4-4be3-92bf-e6c33988d81f-item-1",
+        "template--16178178556063__31f3b5f9-f5d4-4be3-92bf-e6c33988d81f-item-2",
+        "template--16178178556063__31f3b5f9-f5d4-4be3-92bf-e6c33988d81f-item-3",
+        "2b2ac68c-d4fc-4c50-978f-b809d803fd65"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ebede5",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -718,6 +792,7 @@
     "886198cd-c37f-4e1a-a872-97ea39302e2b",
     "5f9a1cee-a21b-4f10-9854-c5b050ba046d",
     "f88ef01d-ca4b-4aa6-9f95-add68d29b5e5",
-    "fc80987e-4966-4e68-88e7-74bd50e0254c"
+    "fc80987e-4966-4e68-88e7-74bd50e0254c",
+    "31f3b5f9-f5d4-4be3-92bf-e6c33988d81f"
   ]
 }
