@@ -604,6 +604,42 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "f88ef01d-ca4b-4aa6-9f95-add68d29b5e5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16178178556063__f88ef01d-ca4b-4aa6-9f95-add68d29b5e5-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>We give back more than we take.<\/h1><h1>We take responsibility for what we make. <\/h1><h1>When we change ourselves for the better, we change the world for the best.<\/h1>"
+          }
+        },
+        "ea52a6dc-9c1d-4b34-8e00-31e0513b48a7": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Explore Our Future Fiber Lab",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16178178556063__f88ef01d-ca4b-4aa6-9f95-add68d29b5e5-richtext-1",
+        "ea52a6dc-9c1d-4b34-8e00-31e0513b48a7"
+      ],
+      "settings": {
+        "class": "",
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "#ebede5",
+        "background_gradient": "",
+        "text_color": "",
+        "right_image": false
+      }
     }
   },
   "order": [
@@ -622,6 +658,7 @@
     "05c373f5-68df-4583-9105-9f9756ff200a",
     "c7ec5cba-3524-471b-85b6-0ac5e75d7aa6",
     "886198cd-c37f-4e1a-a872-97ea39302e2b",
-    "5f9a1cee-a21b-4f10-9854-c5b050ba046d"
+    "5f9a1cee-a21b-4f10-9854-c5b050ba046d",
+    "f88ef01d-ca4b-4aa6-9f95-add68d29b5e5"
   ]
 }
