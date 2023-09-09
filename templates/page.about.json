@@ -436,7 +436,7 @@
         "full_width": true,
         "content_width": "medium",
         "text_position": "center",
-        "background": "",
+        "background": "#f2f3ef",
         "background_gradient": "",
         "text_color": "",
         "right_image": false
@@ -449,7 +449,7 @@
           "type": "heading",
           "settings": {
             "text": "NEXT GENERATION  WITH REGENERATION",
-            "heading_tag": "h1",
+            "heading_tag": "h0",
             "text_color": "",
             "gradient": ""
           }
@@ -468,9 +468,9 @@
       "settings": {
         "class": "",
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
-        "background": "",
+        "background": "#ebede5",
         "background_gradient": "",
         "text_color": "",
         "right_image": false
@@ -483,10 +483,123 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/Group_4097_1.png",
-        "mobile_image": "shopify:\/\/shop_images\/Group_4098_2.png",
+        "image": "shopify:\/\/shop_images\/Group_4099.png",
+        "mobile_image": "shopify:\/\/shop_images\/Group_4100.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "886198cd-c37f-4e1a-a872-97ea39302e2b": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Group_3897.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Group_725.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Group_3896.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Group_3899.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-5": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Group_3900.png",
+            "logo_width": 60,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-1",
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-2",
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-3",
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-4",
+        "template--16178178556063__886198cd-c37f-4e1a-a872-97ea39302e2b-logo-5"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "CERTIFIED BETTER FOR YOU AND PLANET",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "#ebede5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "5f9a1cee-a21b-4f10-9854-c5b050ba046d": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16178178556063__5f9a1cee-a21b-4f10-9854-c5b050ba046d-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "SUSTAINABILITY ISN’T A TREND—IT’S A DEMAND FROM CONSUMERS AND ESSENTIAL FOR THE HEALTH OF OUR PLANET."
+          }
+        },
+        "5d2b133a-70a5-4c48-90c5-87bfc4aba913": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We partner with like-minded industries who share our desire to do better. Our diverse range of innovative material solutions were designed to scale your business and reduce your environmental impact.  Because positive change is a group effort. <\/p>"
+          }
+        },
+        "c7dacc65-0d27-4473-8f24-3d853aeac163": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "lg",
+            "text": "Partner With Us",
+            "url": "",
+            "background": "#ffffff",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16178178556063__5f9a1cee-a21b-4f10-9854-c5b050ba046d-subheading-1",
+        "5d2b133a-70a5-4c48-90c5-87bfc4aba913",
+        "c7dacc65-0d27-4473-8f24-3d853aeac163"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/Group_4101.png",
+        "mobile_image": "shopify:\/\/shop_images\/Group_4101_3.png",
+        "mobile_text_position": "place-self-end-start text-start",
+        "desktop_text_position": "sm:place-self-center-end sm:text-end",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -507,6 +620,8 @@
     "c25ed201-6fab-4606-b418-62fd56342b2d",
     "dd935959-241d-4256-8c03-00d27ecd8973",
     "05c373f5-68df-4583-9105-9f9756ff200a",
-    "c7ec5cba-3524-471b-85b6-0ac5e75d7aa6"
+    "c7ec5cba-3524-471b-85b6-0ac5e75d7aa6",
+    "886198cd-c37f-4e1a-a872-97ea39302e2b",
+    "5f9a1cee-a21b-4f10-9854-c5b050ba046d"
   ]
 }
