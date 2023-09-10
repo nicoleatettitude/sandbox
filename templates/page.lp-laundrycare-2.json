@@ -32,7 +32,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify:\/\/shop_images\/Materials_LP_DESKTOP_ae3ac8bd-6cd3-4955-adf4-2a34fac230c1.jpg",
         "mobile_image": "shopify:\/\/shop_images\/Materials_LP_MOB_0ecf3488-dcfc-4e0c-a9c0-3087c4765f3a.jpg",
         "mobile_text_position": "place-self-center text-center",
@@ -70,7 +70,7 @@
           "type": "item",
           "settings": {
             "title": "Bath",
-            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting. Line dry for best results, or tumble dry low. Avoid bleach or fabric softener—it doesn’t get softer than CleanBamboo™ Waffle!<\/p><h4><strong>Tips<\/strong><\/h4><p><strong>Don't fear shrinkage<\/strong><\/p><ul><li>When the waffle weave constricts, your towels or robe will become plusher and more absorbent. <br\/>Reverse shrinking by washing as per the care instruction and air drying. If desired, iron at a low temperature.<\/li><\/ul>"
+            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting. Line dry for best results, or tumble dry low. Avoid bleach or fabric softener—it doesn’t get softer than CleanBamboo™ Waffle!<\/p><p><strong>Tips<\/strong><\/p><p><strong>Don't fear shrinkage<\/strong><\/p><ul><li>When the waffle weave constricts, your towels or robe will become plusher and more absorbent. <br\/>Reverse shrinking by washing as per the care instruction and air drying. If desired, iron at a low temperature.<\/li><\/ul>"
           }
         },
         "78546044-72d5-4787-9d29-61047daa7b88": {
