@@ -243,6 +243,102 @@
         "background_gradient": "",
         "text_color": "#000000"
       }
+    },
+    "5596e046-5843-4e1d-b5a0-7210be958595": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "d311125e-bba5-4b0d-aded-34519011bd7a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOB_HERO_CollectionCard_Savex2_1bff4c34-be52-44f6-b642-d6389fe5a570_1.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400,
+            "right_image": false
+          }
+        },
+        "b58190ce-9d66-4f7d-80aa-212d77c33d8e": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "7c7dbfc9-2018-4d39-8047-f8156c69820b": {
+          "type": "subheading",
+          "settings": {
+            "text": "‎ About ettitude"
+          }
+        },
+        "7143a097-9410-406c-b698-024388036a12": {
+          "type": "heading",
+          "settings": {
+            "text": "Awaken Positive Change",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "4e420da8-9de9-479e-90a1-ce65ea2fb848": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We are reimagining luxury to not only sustain, but to revitalize and uplift people and planet.<\/p><p>We’re a fabric innovation company and a lifestyle brand making the world’s softest, most sustainable materials with our patented and carbon neutral <strong>CleanBamboo®<\/strong> fibers.<\/p><p>CleanBamboo is a lyocell made from bamboo, and uses absolutely zero toxic chemicals in the process, unlike all other bamboo fabrics on the market made using viscose or rayon technology.<\/p><p>Our materials are 100% natural for a thriving, healthier way of life (for you, your family and the earth).<\/p>",
+            "style": "outline",
+            "size": "xl",
+            "text": "",
+            "url": "",
+            "background": "",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "d311125e-bba5-4b0d-aded-34519011bd7a",
+        "b58190ce-9d66-4f7d-80aa-212d77c33d8e",
+        "7c7dbfc9-2018-4d39-8047-f8156c69820b",
+        "7143a097-9410-406c-b698-024388036a12",
+        "4e420da8-9de9-479e-90a1-ce65ea2fb848"
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "start",
+        "background": "#f2f3ef",
+        "background_gradient": "",
+        "text_color": "#000000"
+      }
+    },
+    "dad8ebcc-a264-47fb-8eb0-d6d96ae88feb": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "template--16182859792543__dad8ebcc-a264-47fb-8eb0-d6d96ae88feb-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Have a brilliant idea that is out of the box? Reach out to us at <a href=\"mailto:care@ettitude.com\" title=\"mailto:care@ettitude.com\"><strong>care@ettitude.com<\/strong><\/a> and we'll help you out!<\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "Contact us",
+            "url": "mailto:care@ettitude.com",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16182859792543__dad8ebcc-a264-47fb-8eb0-d6d96ae88feb-richtext-1"
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -250,6 +346,8 @@
     "39518da8-d6f1-4e55-9c19-72dca2566fd5",
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f",
     "2249ea9f-1896-4b9e-ba10-24413ac32c35",
-    "c4e1efb8-0e82-44f8-aa0e-209f4edca295"
+    "c4e1efb8-0e82-44f8-aa0e-209f4edca295",
+    "5596e046-5843-4e1d-b5a0-7210be958595",
+    "dad8ebcc-a264-47fb-8eb0-d6d96ae88feb"
   ]
 }
