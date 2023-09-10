@@ -7,6 +7,53 @@
         "content_width": "80ch"
       }
     },
+    "d478be1b-bc80-40b6-872d-23e11f46f787": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16182859923615__d478be1b-bc80-40b6-872d-23e11f46f787-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Rest easy with ettitude’s 30-night Sleep Trial",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16182859923615__d478be1b-bc80-40b6-872d-23e11f46f787-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Feeling is believing—and we believe you’ll love it. Try select bedding risk-free for a full 30 nights.<\/p>"
+          }
+        },
+        "6a1e045a-071b-45c3-bee0-cf59ff922b75": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Shop Bedding",
+            "url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16182859923615__d478be1b-bc80-40b6-872d-23e11f46f787-heading-1",
+        "template--16182859923615__d478be1b-bc80-40b6-872d-23e11f46f787-richtext-1",
+        "6a1e045a-071b-45c3-bee0-cf59ff922b75"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/1280_DESKTOP_HERO_v2.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/375_MOB_HERO_v2.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "39518da8-d6f1-4e55-9c19-72dca2566fd5": {
       "type": "LP-rich-text",
       "blocks": {
@@ -179,6 +226,7 @@
   },
   "order": [
     "main",
+    "d478be1b-bc80-40b6-872d-23e11f46f787",
     "39518da8-d6f1-4e55-9c19-72dca2566fd5",
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295",
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f"
