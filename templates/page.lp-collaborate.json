@@ -198,12 +198,12 @@
           "type": "richtext",
           "settings": {
             "content": "<p>We offer a versatile range of available next-generation textiles for purchase or can work with your teams and suppliers to develop custom textiles specific to your brand's needs.<\/p>",
-            "style": "fill",
+            "style": "outline",
             "size": "xl",
             "text": "Learn more",
             "url": "shopify:\/\/pages\/material-science",
             "background": "",
-            "text_color": ""
+            "text_color": "#000000"
           }
         },
         "da1bea1d-c449-4f21-83c0-0a039d0b18df": {
