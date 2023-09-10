@@ -55,22 +55,30 @@
         "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-2": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            "title": "Bamboo Comforters",
+            "content": "<p>Our bamboo comforters are dry clean only to preserve the softness and delicate nature of the organic bamboo filling. We recommend researching your local green dry cleaner for a more eco-friendly option. <\/p>"
           }
         },
         "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-3": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+            "title": "Protectors",
+            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting, line dry or tumble dry low. Avoid bleach or fabric softener. We recommend washing our protectors before first use as the TPU lining will soften with every wash. <\/p>"
+          }
+        },
+        "eac0161d-8f7e-4e80-b257-1261489cdc4c": {
+          "type": "item",
+          "settings": {
+            "title": "Bath",
+            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting. Line dry for best results, or tumble dry low. Avoid bleach or fabric softener—it doesn’t get softer than CleanBamboo™ Waffle!<\/p><h4><strong>Tips<\/strong><\/h4><p><strong>Don't fear shrinkage<\/strong><\/p><ul><li>When the waffle weave constricts, your towels or robe will become plusher and more absorbent. <br\/>Reverse shrinking by washing as per the care instruction and air drying. If desired, iron at a low temperature.<\/li><\/ul>"
           }
         }
       },
       "block_order": [
         "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-1",
         "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-2",
-        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-3"
+        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-3",
+        "eac0161d-8f7e-4e80-b257-1261489cdc4c"
       ],
       "settings": {
         "full_width": true,
