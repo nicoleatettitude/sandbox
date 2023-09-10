@@ -10,28 +10,30 @@
     "bbe17ab6-5ae6-4895-9d54-f3f95526026a": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "template--16178179178655__bbe17ab6-5ae6-4895-9d54-f3f95526026a-subheading-1": {
-          "type": "subheading",
+        "3af4de33-aa25-4f70-a072-8f7a914b873e": {
+          "type": "heading",
           "settings": {
-            "text": "Subheading"
+            "text": "ettitude re:new",
+            "heading_tag": "h1"
           }
         },
         "template--16178179178655__bbe17ab6-5ae6-4895-9d54-f3f95526026a-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "text": "Image with text overlay",
+            "text": "ettitude re:new",
             "heading_tag": "h1"
           }
         },
         "template--16178179178655__bbe17ab6-5ae6-4895-9d54-f3f95526026a-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>Trade in your preloved ettitude or any other brand’s old sheets to earn $50 credit and keep them from going to waste<\/p>"
           }
         }
       },
       "block_order": [
-        "template--16178179178655__bbe17ab6-5ae6-4895-9d54-f3f95526026a-subheading-1",
+        "3af4de33-aa25-4f70-a072-8f7a914b873e",
         "template--16178179178655__bbe17ab6-5ae6-4895-9d54-f3f95526026a-heading-1",
         "template--16178179178655__bbe17ab6-5ae6-4895-9d54-f3f95526026a-richtext-1"
       ],
@@ -39,59 +41,117 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/HeroBanner-DESKTOP-Moss_e40b5861-4b15-4f92-a7f4-98ee0b680909.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Frame_94.png",
+        "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
-    "b3d365b6-1f97-4d25-a8c3-9d4e88855d31": {
-      "type": "rich-text",
+    "da00f568-6faa-4795-9acd-4d66df6c26b3": {
+      "type": "LP-rich-text",
       "blocks": {
-        "template--16178179178655__b3d365b6-1f97-4d25-a8c3-9d4e88855d31-subheading-1": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "template--16178179178655__b3d365b6-1f97-4d25-a8c3-9d4e88855d31-heading-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "template--16178179178655__b3d365b6-1f97-4d25-a8c3-9d4e88855d31-richtext-1": {
+        "template--16182859759775__da00f568-6faa-4795-9acd-4d66df6c26b3-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>As a sustainable brand, we’re always conscious of reducing the impact of our products’ lifecycle and minimizing waste.<\/p><p>That's why we partnered with Treet to launch ettitude re:new—a new way to give ettitude bedding, towels, apparel or accessories and other brands’ bedding a second life.<\/p><p>In return, you’ll get $50 in credits for your next ettitude order over $200. It’s our way of thanking you for helping us keep textiles out of landfills.<\/p><p>Want to recycle sheets from other brands? You can still trade them in, and we'll retire them properly.<\/p>",
+            "style": "fill",
+            "size": "lg",
+            "text": "",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "e2558dba-87f5-4eaf-aa7f-eb3232c61144": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "dd33c2ac-f525-40cd-8fa5-f4ddebfb58bb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Moss_home_color_5a404307-4914-4735-842d-c2f06098cd5d.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400,
+            "right_image": false
           }
         }
       },
       "block_order": [
-        "template--16178179178655__b3d365b6-1f97-4d25-a8c3-9d4e88855d31-subheading-1",
-        "template--16178179178655__b3d365b6-1f97-4d25-a8c3-9d4e88855d31-heading-1",
-        "template--16178179178655__b3d365b6-1f97-4d25-a8c3-9d4e88855d31-richtext-1"
+        "template--16182859759775__da00f568-6faa-4795-9acd-4d66df6c26b3-richtext-1",
+        "e2558dba-87f5-4eaf-aa7f-eb3232c61144",
+        "dd33c2ac-f525-40cd-8fa5-f4ddebfb58bb"
       ],
       "settings": {
         "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "right_image": false
+        "text_color": ""
+      }
+    },
+    "dfa902e9-2d78-46a2-9bba-1897026e5a36": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "40e7afe2-3da9-4e3f-8d63-fc3a2d168710": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Moss_home_color_5a404307-4914-4735-842d-c2f06098cd5d.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400,
+            "right_image": false
+          }
+        },
+        "7c9abaef-d854-4162-b807-9a5ea351ccc7": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "f04f3368-e877-43b1-a955-55330bf7885e": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>As a sustainable brand, we’re always conscious of reducing the impact of our products’ lifecycle and minimizing waste.<\/p><p>That's why we partnered with Treet to launch ettitude re:new—a new way to give ettitude bedding, towels, apparel or accessories and other brands’ bedding a second life.<\/p><p>In return, you’ll get $50 in credits for your next ettitude order over $200. It’s our way of thanking you for helping us keep textiles out of landfills.<\/p><p>Want to recycle sheets from other brands? You can still trade them in, and we'll retire them properly.<\/p>",
+            "style": "fill",
+            "size": "lg",
+            "text": "",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "40e7afe2-3da9-4e3f-8d63-fc3a2d168710",
+        "7c9abaef-d854-4162-b807-9a5ea351ccc7",
+        "f04f3368-e877-43b1-a955-55330bf7885e"
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
   "order": [
     "main",
     "bbe17ab6-5ae6-4895-9d54-f3f95526026a",
-    "b3d365b6-1f97-4d25-a8c3-9d4e88855d31"
+    "da00f568-6faa-4795-9acd-4d66df6c26b3",
+    "dfa902e9-2d78-46a2-9bba-1897026e5a36"
   ]
 }
