@@ -10,6 +10,12 @@
     "d478be1b-bc80-40b6-872d-23e11f46f787": {
       "type": "image-with-text-overlay",
       "blocks": {
+        "7336c6ab-8f77-4897-b0ea-d98c5f46c9cb": {
+          "type": "subheading",
+          "settings": {
+            "text": "‎"
+          }
+        },
         "template--16182859923615__d478be1b-bc80-40b6-872d-23e11f46f787-heading-1": {
           "type": "heading",
           "settings": {
@@ -36,6 +42,7 @@
         }
       },
       "block_order": [
+        "7336c6ab-8f77-4897-b0ea-d98c5f46c9cb",
         "template--16182859923615__d478be1b-bc80-40b6-872d-23e11f46f787-heading-1",
         "template--16182859923615__d478be1b-bc80-40b6-872d-23e11f46f787-richtext-1",
         "6a1e045a-071b-45c3-bee0-cf59ff922b75"
@@ -44,14 +51,14 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "md",
+        "image_size": "lg",
         "image": "shopify:\/\/shop_images\/1280_DESKTOP_HERO_v2.jpg",
         "mobile_image": "shopify:\/\/shop_images\/375_MOB_HERO_v2.jpg",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "39518da8-d6f1-4e55-9c19-72dca2566fd5": {
