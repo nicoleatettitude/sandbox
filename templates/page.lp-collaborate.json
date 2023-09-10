@@ -25,8 +25,8 @@
             "content": "<p>We are looking to partner with others who share our vision. If sleeping better, living naturally, and caring for our planet are important to you, we’d love to hear from you. While each partnership is unique, below are a few ways we can collaborate together.<\/p><p><em>A regenerative future starts here, together.<\/em><\/p>",
             "style": "fill",
             "size": "xl",
-            "text": "Read our 2022 Impact Report",
-            "url": "shopify:\/\/pages\/about",
+            "text": "",
+            "url": "",
             "background": "",
             "text_color": ""
           }
@@ -46,7 +46,71 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "8668dc1c-034b-4ece-bd0f-1f232d11be5f": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CollectionCard-Affiliate.jpg",
+            "column_size": "3",
+            "title": "Affiliate Program",
+            "heading_tag": "h4",
+            "content": "<p>Inspired to spread the sustainable love? Gain access to exclusive offers and earn commissions through our affiliate program. If you're interested apply here.<\/p>",
+            "link_url": "https:\/\/app.impact.com\/advertiser-advertiser-info\/ettitude-holdings-inc.brand",
+            "link_text": "Learn More",
+            "link_style": "button"
+          }
+        },
+        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Collection_Card___Brand_Partnership_1.jpg",
+            "column_size": "3",
+            "title": "Brand Partnerships",
+            "heading_tag": "h4",
+            "content": "<p>We are always looking to partner with like-minded companies that share our vision for a better way of living. Tell us more about your collaboration concept here.<\/p>",
+            "link_url": "https:\/\/forms.gle\/yjKvcu7hUMsreBR47",
+            "link_text": "Learn More",
+            "link_style": "button"
+          }
+        },
+        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CollectionCard-Influencer_2.jpg",
+            "column_size": "3",
+            "title": "Influencer Collaborations",
+            "heading_tag": "h4",
+            "content": "<p>If you use your social platforms to create beautiful spaces, promote mindful living, or share inspiring products, we would love to hear from you here.<\/p>",
+            "link_url": "https:\/\/forms.gle\/yjKvcu7hUMsreBR47",
+            "link_text": "Learn More",
+            "link_style": "button"
+          }
+        }
+      },
+      "block_order": [
+        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-1",
+        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-2",
+        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3"
+      ],
+      "custom_css": [
+        "h2 {font-size: 40px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Partnerships & Collaborations",
+        "content": "",
+        "background": "#f2f3ef",
         "background_gradient": "",
         "text_color": ""
       }
@@ -111,76 +175,12 @@
         "background_gradient": "",
         "text_color": "#ffffff"
       }
-    },
-    "8668dc1c-034b-4ece-bd0f-1f232d11be5f": {
-      "type": "multi-column",
-      "blocks": {
-        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_491ca52f-2717-4b46-b5c4-fea4fdca61af.png",
-            "column_size": "3",
-            "title": "2022 Impact Report →",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_1b26d88a-b59e-4eb5-8d4a-84ce78f738ec.png",
-            "column_size": "3",
-            "title": "2021 Impact Report →",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2020_Impact_Report_1.png",
-            "column_size": "3",
-            "title": "2020 Impact Report →",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-1",
-        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-2",
-        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3"
-      ],
-      "custom_css": [
-        "h2 {font-size: 40px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Learn why bamboo is better in bed",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "main",
     "39518da8-d6f1-4e55-9c19-72dca2566fd5",
-    "c4e1efb8-0e82-44f8-aa0e-209f4edca295",
-    "8668dc1c-034b-4ece-bd0f-1f232d11be5f"
+    "8668dc1c-034b-4ece-bd0f-1f232d11be5f",
+    "c4e1efb8-0e82-44f8-aa0e-209f4edca295"
   ]
 }
