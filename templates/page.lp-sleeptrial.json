@@ -30,7 +30,7 @@
             "size": "lg",
             "text": "Shop Bedding",
             "url": "shopify:\/\/collections\/bedding",
-            "background": "",
+            "background": "#ffffff",
             "text_color": ""
           }
         }
@@ -44,7 +44,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "md",
         "image": "shopify:\/\/shop_images\/1280_DESKTOP_HERO_v2.jpg",
         "mobile_image": "shopify:\/\/shop_images\/375_MOB_HERO_v2.jpg",
         "mobile_text_position": "place-self-center text-center",
