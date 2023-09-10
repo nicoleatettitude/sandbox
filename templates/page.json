@@ -2,126 +2,12 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "content_width": "80ch"
-      }
-    },
-    "a3b29e97-dbe0-4a87-9d8e-711e7ed08edb": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "a87d7c8a-f4e4-4538-9d5a-078448de466d": {
-          "type": "heading",
-          "settings": {
-            "text": "Laundry Care for Bamboo Products",
-            "heading_tag": "h1"
-          }
-        },
-        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>We take great pride in developing the softest organic bamboo essentials that are gentle on your skin and our planet. Accordingly, our products are best preserved with gentle care. Follow these simple instructions to preserve their softness for years to come. Kindly note all our products are pre-washed, so you can get cozy straight away.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "a87d7c8a-f4e4-4538-9d5a-078448de466d",
-        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/Materials_LP_DESKTOP_ae3ac8bd-6cd3-4955-adf4-2a34fac230c1.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Materials_LP_MOB_0ecf3488-dcfc-4e0c-a9c0-3087c4765f3a.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 21
-      }
-    },
-    "22214ac1-ea06-4801-a29c-606299a7304f": {
-      "type": "faq",
-      "blocks": {
-        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-1": {
-          "type": "item",
-          "settings": {
-            "title": "Bedding and Sleepwear",
-            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting, line dry or tumble dry low. Avoid bleach or fabric softener— it doesn’t get softer than CleanBamboo™! <\/p><h4><strong>Tips<\/strong><\/h4><p><strong>Wrinkle free<\/strong><\/p><ul><li>Shake out bedding and sleepwear between washing and drying. Remove immediately after drying, or line dry if preferred. If desired, iron at a low temperature. <\/li><\/ul><p><strong>Pilling prevention<\/strong><\/p><ul><li>Some pilling is normal for natural fibers. To prevent excess pilling, avoid fabric softeners, dryer balls and friction with other rough fabrics.<\/li><\/ul>"
-          }
-        },
-        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-2": {
-          "type": "item",
-          "settings": {
-            "title": "Bamboo Comforters",
-            "content": "<p>Our bamboo comforters are dry clean only to preserve the softness and delicate nature of the organic bamboo filling. We recommend researching your local green dry cleaner for a more eco-friendly option. <\/p>"
-          }
-        },
-        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-3": {
-          "type": "item",
-          "settings": {
-            "title": "Protectors",
-            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting, line dry or tumble dry low. Avoid bleach or fabric softener. We recommend washing our protectors before first use as the TPU lining will soften with every wash. <\/p>"
-          }
-        },
-        "eac0161d-8f7e-4e80-b257-1261489cdc4c": {
-          "type": "item",
-          "settings": {
-            "title": "Bath",
-            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting. Line dry for best results, or tumble dry low. Avoid bleach or fabric softener—it doesn’t get softer than CleanBamboo™ Waffle!<\/p><h4><strong>Tips<\/strong><\/h4><p><strong>Don't fear shrinkage<\/strong><\/p><ul><li>When the waffle weave constricts, your towels or robe will become plusher and more absorbent. <br\/>Reverse shrinking by washing as per the care instruction and air drying. If desired, iron at a low temperature.<\/li><\/ul>"
-          }
-        },
-        "78546044-72d5-4787-9d29-61047daa7b88": {
-          "type": "item",
-          "settings": {
-            "title": "Down Alternative Comforter",
-            "content": "<p>Cold machine wash with like fabrics on gentle or delicate setting, line dry or tumble dry low. Avoid bleach or fabric softener to help maintain the fluffy and soft filling.<\/p>"
-          }
-        },
-        "8a0ff15b-fbca-45ab-ba54-625e6134fc36": {
-          "type": "item",
-          "settings": {
-            "title": "Recommended laundry products",
-            "content": "<p><strong>Is there an eco-friendly detergent you recommend?<\/strong><\/p><ul><li>We recommend any mild, eco-friendly detergent. We also encourage opting for natural detergents like baking soda or white vinegar. Chemical-free soap nuts are another popular alternative to traditional detergent.<\/li><\/ul><p>Uh oh, I’ve got stains on my ettitude products—what should I do? <\/p><p>Bleach can permanently damage our delicate CleanBamboo™ fabric. For removing light stains, try a pre-soak in mild, eco-friendly detergent. Before using stain remover, we recommend testing on the reusable drawstring bag your bedding arrived in.<\/p><p>Can I use a fabric brightener on my sheets?<\/p><p>Avoid any harsh chemicals on your CleanBamboo™ products. We encourage using a baking soda and vinegar mixture as a mild bleach-like alternative. Start by adding 1\/2 cup of baking soda to the wash cycle. Next, add 1\/2 cup of white vinegar during the rinse cycle. These two ingredients can help brighten white fabrics. Avoid combining them, as this causes a chemical reaction. <br\/>Use with care on light or white fabrics only. Kindly note this method could cause fading on dark colors.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-1",
-        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-2",
-        "template--16178179178655__22214ac1-ea06-4801-a29c-606299a7304f-item-3",
-        "eac0161d-8f7e-4e80-b257-1261489cdc4c",
-        "78546044-72d5-4787-9d29-61047daa7b88",
-        "8a0ff15b-fbca-45ab-ba54-625e6134fc36"
-      ],
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "Have any additional questions?",
-        "answer_time": "",
-        "button_text": "Contact us",
-        "button_url": "mailto:care@ettitude.com",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
       }
     }
   },
   "order": [
-    "main",
-    "a3b29e97-dbe0-4a87-9d8e-711e7ed08edb",
-    "22214ac1-ea06-4801-a29c-606299a7304f"
+    "main"
   ]
 }
