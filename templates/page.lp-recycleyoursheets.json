@@ -117,10 +117,19 @@
           "settings": {
           }
         },
+        "31ead98e-1d39-4cb6-967c-4f8517f9f224": {
+          "type": "heading",
+          "settings": {
+            "text": "How ettitude re:new works for you",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "f04f3368-e877-43b1-a955-55330bf7885e": {
           "type": "richtext",
           "settings": {
-            "content": "<p>As a sustainable brand, we’re always conscious of reducing the impact of our products’ lifecycle and minimizing waste.<\/p><p>That's why we partnered with Treet to launch ettitude re:new—a new way to give ettitude bedding, towels, apparel or accessories and other brands’ bedding a second life.<\/p><p>In return, you’ll get $50 in credits for your next ettitude order over $200. It’s our way of thanking you for helping us keep textiles out of landfills.<\/p><p>Want to recycle sheets from other brands? You can still trade them in, and we'll retire them properly.<\/p>",
+            "content": "<p><strong>Submit on re:new<\/strong><br\/>Answer a few simple questions about the quality of the items you’re trading in. Rember that you can send in both ettitude items or other brand's bedding.<br\/><br\/><strong>Ship<\/strong><br\/>Print out a pre-paid shipping label and send your items.<br\/><br\/><strong>Earn<\/strong><br\/>You’ll get $50 to use on ettitude.com for orders $200+.<\/p>",
             "style": "fill",
             "size": "lg",
             "text": "",
@@ -133,6 +142,7 @@
       "block_order": [
         "40e7afe2-3da9-4e3f-8d63-fc3a2d168710",
         "7c9abaef-d854-4162-b807-9a5ea351ccc7",
+        "31ead98e-1d39-4cb6-967c-4f8517f9f224",
         "f04f3368-e877-43b1-a955-55330bf7885e"
       ],
       "settings": {
@@ -142,7 +152,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#f2f3ef",
         "background_gradient": "",
         "text_color": ""
       }
