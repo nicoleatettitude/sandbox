@@ -115,6 +115,67 @@
         "text_color": ""
       }
     },
+    "2249ea9f-1896-4b9e-ba10-24413ac32c35": {
+      "type": "multi-column",
+      "blocks": {
+        "b809efee-371e-40a4-96c4-f463d29f4b76": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CollectionCard-Affiliate.jpg",
+            "column_size": "3",
+            "title": "Affiliate Program",
+            "heading_tag": "h4",
+            "content": "<p>Inspired to spread the sustainable love? Gain access to exclusive offers and earn commissions through our affiliate program. If you're interested apply here.<\/p>",
+            "link_url": "https:\/\/app.impact.com\/advertiser-advertiser-info\/ettitude-holdings-inc.brand",
+            "link_text": "Learn More",
+            "link_style": "button"
+          }
+        },
+        "d19200cc-cb3f-4a9c-b62c-a1a118f5a331": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Collection_Card___Brand_Partnership_1.jpg",
+            "column_size": "3",
+            "title": "Brand Partnerships",
+            "heading_tag": "h4",
+            "content": "<p>We are always looking to partner with like-minded companies that share our vision for a better way of living. Tell us more about your collaboration concept here.<\/p>",
+            "link_url": "https:\/\/forms.gle\/yjKvcu7hUMsreBR47",
+            "link_text": "Learn More",
+            "link_style": "button"
+          }
+        },
+        "8fc4b1c5-d10c-4737-8494-9759c485d853": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CollectionCard-Influencer_2.jpg",
+            "column_size": "3",
+            "title": "Influencer Collaborations",
+            "heading_tag": "h4",
+            "content": "<p>If you use your social platforms to create beautiful spaces, promote mindful living, or share inspiring products, we would love to hear from you here.<\/p>",
+            "link_url": "https:\/\/forms.gle\/yjKvcu7hUMsreBR47",
+            "link_text": "Learn More",
+            "link_style": "button"
+          }
+        }
+      },
+      "block_order": [
+        "b809efee-371e-40a4-96c4-f463d29f4b76",
+        "d19200cc-cb3f-4a9c-b62c-a1a118f5a331",
+        "8fc4b1c5-d10c-4737-8494-9759c485d853"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Partnerships & Collaborations",
+        "content": "",
+        "background": "#ebede5",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295": {
       "type": "LP-rich-text",
       "blocks": {
@@ -181,6 +242,7 @@
     "main",
     "39518da8-d6f1-4e55-9c19-72dca2566fd5",
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f",
+    "2249ea9f-1896-4b9e-ba10-24413ac32c35",
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295"
   ]
 }
