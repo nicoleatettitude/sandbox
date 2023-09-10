@@ -1,0 +1,119 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "a3b29e97-dbe0-4a87-9d8e-711e7ed08edb": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "a87d7c8a-f4e4-4538-9d5a-078448de466d": {
+          "type": "heading",
+          "settings": {
+            "text": "Hey there,",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a87d7c8a-f4e4-4538-9d5a-078448de466d",
+        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-heading-1",
+        "template--16178179178655__a3b29e97-dbe0-4a87-9d8e-711e7ed08edb-richtext-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/4._Podcast_LP_2023_desk_91278f0f-54ae-46e8-861f-6ed38780a8fb.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/4._Podcast_LP_2023_Mob.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "937d4570-f087-407e-bd09-a20fb2ed415e": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16178179178655__937d4570-f087-407e-bd09-a20fb2ed415e-image-1": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "template--16178179178655__937d4570-f087-407e-bd09-a20fb2ed415e-image-2": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16178179178655__937d4570-f087-407e-bd09-a20fb2ed415e-image-1",
+        "template--16178179178655__937d4570-f087-407e-bd09-a20fb2ed415e-image-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a3b29e97-dbe0-4a87-9d8e-711e7ed08edb",
+    "937d4570-f087-407e-bd09-a20fb2ed415e"
+  ]
+}
