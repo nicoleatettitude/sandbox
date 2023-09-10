@@ -121,12 +121,12 @@
         "b809efee-371e-40a4-96c4-f463d29f4b76": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CollectionCard-Affiliate.jpg",
+            "image": "shopify:\/\/shop_images\/CollectionCard-Wholesale_2db2a679-c4f7-4107-9f00-5e25407509c8.jpg",
             "column_size": "3",
-            "title": "Affiliate Program",
+            "title": "Wholesale Orders",
             "heading_tag": "h4",
-            "content": "<p>Inspired to spread the sustainable love? Gain access to exclusive offers and earn commissions through our affiliate program. If you're interested apply here.<\/p>",
-            "link_url": "https:\/\/app.impact.com\/advertiser-advertiser-info\/ettitude-holdings-inc.brand",
+            "content": "<p>Love ettiude and want to carry our products? Apply to become a stockist! Our stockists receive exclusive wholesale pricing, brand and product education & more. Fill out the form so we can learn more about you and your retail operation.<\/p>",
+            "link_url": "https:\/\/myecoattitude.typeform.com\/to\/S1Lmdu",
             "link_text": "Learn More",
             "link_style": "button"
           }
@@ -134,12 +134,12 @@
         "d19200cc-cb3f-4a9c-b62c-a1a118f5a331": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Web_Collection_Card___Brand_Partnership_1.jpg",
+            "image": "shopify:\/\/shop_images\/CollectionCard-Hospitality_1.jpg",
             "column_size": "3",
-            "title": "Brand Partnerships",
+            "title": "Hospitality Trade Program",
             "heading_tag": "h4",
-            "content": "<p>We are always looking to partner with like-minded companies that share our vision for a better way of living. Tell us more about your collaboration concept here.<\/p>",
-            "link_url": "https:\/\/forms.gle\/yjKvcu7hUMsreBR47",
+            "content": "<p>Whether you have an Airbnb, rental property, or boutique accommodation, now you can offer the softest, most sustainable bedding to your guests.  Contact us for pricing.<\/p>",
+            "link_url": "https:\/\/myecoattitude.typeform.com\/to\/wQgWsr?typeform-source=www.ettitude.com",
             "link_text": "Learn More",
             "link_style": "button"
           }
@@ -149,10 +149,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/CollectionCard-Influencer_2.jpg",
             "column_size": "3",
-            "title": "Influencer Collaborations",
+            "title": "Designer Trade Program",
             "heading_tag": "h4",
-            "content": "<p>If you use your social platforms to create beautiful spaces, promote mindful living, or share inspiring products, we would love to hear from you here.<\/p>",
-            "link_url": "https:\/\/forms.gle\/yjKvcu7hUMsreBR47",
+            "content": "<p>Seeking eco-friendly designers! We offer exclusive trade discounts and services to interior designers, stylists, and their clients who want to incorporate bamboo bedding in their projects. Apply here.<\/p>",
+            "link_url": "https:\/\/myecoattitude.typeform.com\/to\/I6GbMn?typeform-source=www.ettitude.com",
             "link_text": "Learn More",
             "link_style": "button"
           }
@@ -179,11 +179,17 @@
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295": {
       "type": "LP-rich-text",
       "blocks": {
+        "ce1a38c2-9064-44cd-ad97-5d37214ed4de": {
+          "type": "subheading",
+          "settings": {
+            "text": "‎"
+          }
+        },
         "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-heading-1": {
           "type": "heading",
           "settings": {
-            "text": "Awaken to better",
-            "heading_tag": "h1",
+            "text": "Interested in purchasing CleanBamboo® fabric?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -191,11 +197,11 @@
         "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Since our inception, ettitude has saved over 3 million liters of water and over 70,000 acres of land through our use of sustainable materials. We have also prevented over 1,000 tons of carbon dioxide emissions through our carbon offset program and focus on energy efficiency. Additionally, our ethical practices ensure that our products are made without harming the environment or the people who make them.<\/p>",
+            "content": "<p>We offer a versatile range of available next-generation textiles for purchase or can work with your teams and suppliers to develop custom textiles specific to your brand's needs.<\/p>",
             "style": "fill",
             "size": "xl",
-            "text": "",
-            "url": "",
+            "text": "Learn more",
+            "url": "shopify:\/\/pages\/material-science",
             "background": "",
             "text_color": ""
           }
@@ -208,7 +214,7 @@
         "b7520082-bd3f-431e-813f-42122c38b236": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MOB_HERO_CollectionCard_Savex2_1bff4c34-be52-44f6-b642-d6389fe5a570.jpg",
+            "image": "shopify:\/\/shop_images\/ettitudeButter.png",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400,
@@ -217,6 +223,7 @@
         }
       },
       "block_order": [
+        "ce1a38c2-9064-44cd-ad97-5d37214ed4de",
         "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-heading-1",
         "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-richtext-1",
         "da1bea1d-c449-4f21-83c0-0a039d0b18df",
@@ -232,9 +239,9 @@
         "full_width": true,
         "content_width": "medium",
         "text_position": "start",
-        "background": "#51563f",
+        "background": "#f2f3ef",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     }
   },
