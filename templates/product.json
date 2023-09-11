@@ -17,7 +17,7 @@
         "35aa9c0a-e282-40e8-8d63-82feb2a7ce7c": {
           "type": "text",
           "settings": {
-            "text": "<p>Made from 100% bamboo lyocell, the only fabric free of harmful chemicals and plastics<\/p>"
+            "text": "<p>{{ product.metafields.custom.hero_phrase.value }}<\/p>"
           }
         },
         "e9d79047-17d7-4051-8642-fd8d2f448c64": {
