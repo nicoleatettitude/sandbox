@@ -142,7 +142,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Sustainability",
-            "content": "<p>Share some content to your customers about your products.<\/p>"
+            "content": "{{ product.metafields.custom.sustainability | metafield_tag }}"
           }
         },
         "1a96a3a6-ec40-4348-b47d-9aea4e631ca9": {
