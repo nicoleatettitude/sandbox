@@ -83,7 +83,7 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#f2f3ef",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
       }
@@ -286,15 +286,56 @@
         "text_color": "#1a1a1a"
       }
     },
+    "b6f87817-327a-4cc9-832c-544c1fa0b7ee": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "template--16182880469151__b6f87817-327a-4cc9-832c-544c1fa0b7ee-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Our innovative fibers. Your next-generation products.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16182880469151__b6f87817-327a-4cc9-832c-544c1fa0b7ee-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We can transform our versatile CleanBamboo™ fibers into a variety of luxuriously soft, durable products that support the health of our planet. <\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16182880469151__b6f87817-327a-4cc9-832c-544c1fa0b7ee-heading-1",
+        "template--16182880469151__b6f87817-327a-4cc9-832c-544c1fa0b7ee-richtext-1"
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f": {
       "type": "multi-column",
       "blocks": {
         "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_491ca52f-2717-4b46-b5c4-fea4fdca61af.png",
-            "column_size": "3",
-            "title": "2022 Impact Report →",
+            "image": "shopify:\/\/shop_images\/Technical_Wovens_12648cc4-f709-4e87-99b7-90c552c51fa4.jpg",
+            "column_size": "4",
+            "title": "Technical Wovens",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -305,9 +346,9 @@
         "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_1b26d88a-b59e-4eb5-8d4a-84ce78f738ec.png",
-            "column_size": "3",
-            "title": "2021 Impact Report →",
+            "image": "shopify:\/\/shop_images\/Fashion.jpg",
+            "column_size": "4",
+            "title": "Fashion",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -318,9 +359,22 @@
         "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2020_Impact_Report_1.png",
-            "column_size": "3",
-            "title": "2020 Impact Report →",
+            "image": "shopify:\/\/shop_images\/Performance_Knits-2.jpg",
+            "column_size": "4",
+            "title": "Performance Knits",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "6d2faa03-9647-45ca-83d9-0ec29226bcde": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Accessories.jpg",
+            "column_size": "4",
+            "title": "Accessories",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -332,7 +386,8 @@
       "block_order": [
         "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-1",
         "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-2",
-        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3"
+        "template--16178216829087__8668dc1c-034b-4ece-bd0f-1f232d11be5f-item-3",
+        "6d2faa03-9647-45ca-83d9-0ec29226bcde"
       ],
       "custom_css": [
         "h2 {font-size: 40px;}"
@@ -343,8 +398,39 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Learn why bamboo is better in bed",
+        "title": "",
         "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "608e8808-e0e4-4192-aa0e-046ff9b4aefa": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "template--16182880469151__608e8808-e0e4-4192-aa0e-046ff9b4aefa-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>‎ <\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "Join the re-generation",
+            "url": "mailto:sales@ettitude.com",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16182880469151__608e8808-e0e4-4192-aa0e-046ff9b4aefa-richtext-1"
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -358,6 +444,8 @@
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295",
     "4151874d-e143-4b7b-95f5-8d97a3246db3",
     "f0b103be-69c4-4d48-b72e-49d29f3654d9",
-    "8668dc1c-034b-4ece-bd0f-1f232d11be5f"
+    "b6f87817-327a-4cc9-832c-544c1fa0b7ee",
+    "8668dc1c-034b-4ece-bd0f-1f232d11be5f",
+    "608e8808-e0e4-4192-aa0e-046ff9b4aefa"
   ]
 }
