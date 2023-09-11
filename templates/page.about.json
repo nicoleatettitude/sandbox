@@ -457,11 +457,18 @@
       "blocks": {
         "template--16178178556063__05c373f5-68df-4583-9105-9f9756ff200a-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "text": "NEXT GENERATION  WITH REGENERATION",
+            "text": "NEXT GENERATIONWITH REGENERATION",
             "heading_tag": "h0",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "5320a896-3dd6-49d4-83a5-00bf909744cc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>NEXT GENERATION<\/h1><h1>WITH REGENERATION<\/h1>"
           }
         },
         "template--16178178556063__05c373f5-68df-4583-9105-9f9756ff200a-richtext-1": {
@@ -473,6 +480,7 @@
       },
       "block_order": [
         "template--16178178556063__05c373f5-68df-4583-9105-9f9756ff200a-heading-1",
+        "5320a896-3dd6-49d4-83a5-00bf909744cc",
         "template--16178178556063__05c373f5-68df-4583-9105-9f9756ff200a-richtext-1"
       ],
       "settings": {
