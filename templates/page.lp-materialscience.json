@@ -83,7 +83,7 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#f0f0f0",
+        "background": "#f2f3ef",
         "background_gradient": "",
         "text_color": ""
       }
@@ -151,9 +151,139 @@
         "full_width": true,
         "content_width": "medium",
         "text_position": "start",
-        "background": "#51563f",
+        "background": "#ebede5",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#1a1a1a"
+      }
+    },
+    "4151874d-e143-4b7b-95f5-8d97a3246db3": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "44300230-17dd-4cee-bb92-8a945017f907": {
+          "type": "subheading",
+          "settings": {
+            "text": "‎"
+          }
+        },
+        "ff4d67fc-7cac-4b4b-a092-cfa2bbf88f42": {
+          "type": "heading",
+          "settings": {
+            "text": "Why bamboo?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "df85cf6b-2099-4c22-a0af-44d3187836ae": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Bamboo is abundant, regenerative, grows with 100% rain water, and does not require pesticides. <\/p><p><strong>Regenerative<\/strong><\/p><p>As it grows, bamboo enriches the soil with nutrients and removes toxins, leaving the earth healthier than before. <\/p><p><strong>Cleans the air<\/strong><\/p><p>Bamboo naturally fights climate change, absorbing <a href=\"https:\/\/drawdown.org\/solutions\/bamboo-production\"><span style=\"text-decoration:underline\">2.03 metric tons of CO2<\/span><\/a> per hectare, per year.<\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "a4cf7567-d306-4dc0-b736-c99526b8430d": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "98dd3e6f-5fad-4eaf-bd4f-581f889f0c7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Why_Bamboo.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400,
+            "right_image": false
+          }
+        }
+      },
+      "block_order": [
+        "44300230-17dd-4cee-bb92-8a945017f907",
+        "ff4d67fc-7cac-4b4b-a092-cfa2bbf88f42",
+        "df85cf6b-2099-4c22-a0af-44d3187836ae",
+        "a4cf7567-d306-4dc0-b736-c99526b8430d",
+        "98dd3e6f-5fad-4eaf-bd4f-581f889f0c7e"
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "start",
+        "background": "#ebede5",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
+    "f0b103be-69c4-4d48-b72e-49d29f3654d9": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "766e6eb6-7e49-4e38-9969-e829c2d87f2d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Not_all_equal_170590ee-7180-49f8-8267-94e52b3add96.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400,
+            "right_image": false
+          }
+        },
+        "d3d7e0ac-fdfa-4999-8cd5-cb9d5b24ca03": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "f6c6d954-6d16-4755-82fa-47e318f0e78d": {
+          "type": "subheading",
+          "settings": {
+            "text": "‎"
+          }
+        },
+        "a73ba2db-a242-4b16-af34-26f841b3ebb9": {
+          "type": "heading",
+          "settings": {
+            "text": "Meet CleanBamboo™",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "2a80e93a-97f5-4f62-9853-733385d23c99": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>The Fabric of Our Future™ <em>vs. cotton<\/em><\/p><p><em>✓<\/em> 0% toxic chemicals<\/p><p><em>✓<\/em> Uses 38% less CO2<\/p><p><em>✓<\/em> Uses 99% less water<\/p><p><em>✓<\/em> Contains 0% synthetics<\/p><p><em>✓<\/em> 100% biodegradable<\/p><p><em>✓<\/em> Made in a closed-loop process<\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "766e6eb6-7e49-4e38-9969-e829c2d87f2d",
+        "d3d7e0ac-fdfa-4999-8cd5-cb9d5b24ca03",
+        "f6c6d954-6d16-4755-82fa-47e318f0e78d",
+        "a73ba2db-a242-4b16-af34-26f841b3ebb9",
+        "2a80e93a-97f5-4f62-9853-733385d23c99"
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "start",
+        "background": "#ebede5",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
       }
     },
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f": {
@@ -226,6 +356,8 @@
     "7c6ec66e-de43-4209-b4a8-31fbfc6526b3",
     "39518da8-d6f1-4e55-9c19-72dca2566fd5",
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295",
+    "4151874d-e143-4b7b-95f5-8d97a3246db3",
+    "f0b103be-69c4-4d48-b72e-49d29f3654d9",
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f"
   ]
 }
