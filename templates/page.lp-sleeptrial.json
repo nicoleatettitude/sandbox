@@ -122,50 +122,6 @@
         "text_color": "#000000"
       }
     },
-    "39518da8-d6f1-4e55-9c19-72dca2566fd5": {
-      "type": "LP-rich-text",
-      "blocks": {
-        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-heading-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Our Impact",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-richtext-1": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>We're proud of the impact we've made so far, and we're excited to share it with you. Our impact report details our achievements and progress towards our sustainability goals. <\/p>",
-            "style": "fill",
-            "size": "xl",
-            "text": "Read our 2022 Impact Report",
-            "url": "shopify:\/\/pages\/about",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-heading-1",
-        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-richtext-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "class": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f": {
       "type": "multi-column",
       "blocks": {
@@ -229,13 +185,57 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "39518da8-d6f1-4e55-9c19-72dca2566fd5": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Terms & Conditions",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>The 30-night Sleep Trial applies to everything in our bedding category that is not on final sale, including sheet sets, duvet covers, fitted sheets, flat sheets, pillowcases, protectors, comforters, and crib sheets. The trial is only valid on your first order containing bedding products. International orders are covered under the Sleep Trial, however, ettitude will not cover Sleep Trial returns’ shipping costs.<\/em><\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "Read our 2022 Impact Report",
+            "url": "shopify:\/\/pages\/about",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-heading-1",
+        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-richtext-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "class": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "d478be1b-bc80-40b6-872d-23e11f46f787",
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295",
-    "39518da8-d6f1-4e55-9c19-72dca2566fd5",
-    "8668dc1c-034b-4ece-bd0f-1f232d11be5f"
+    "8668dc1c-034b-4ece-bd0f-1f232d11be5f",
+    "39518da8-d6f1-4e55-9c19-72dca2566fd5"
   ]
 }
