@@ -91,10 +91,31 @@
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295": {
       "type": "LP-rich-text",
       "blocks": {
+        "b7520082-bd3f-431e-813f-42122c38b236": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Not_all_equal_170590ee-7180-49f8-8267-94e52b3add96.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400,
+            "right_image": false
+          }
+        },
+        "da1bea1d-c449-4f21-83c0-0a039d0b18df": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "3a1cba49-bb60-4d82-936b-93f5981b9fc7": {
+          "type": "subheading",
+          "settings": {
+            "text": "‎"
+          }
+        },
         "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-heading-1": {
           "type": "heading",
           "settings": {
-            "text": "Awaken to better",
+            "text": "Meet CleanBamboo™",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -103,7 +124,7 @@
         "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Since our inception, ettitude has saved over 3 million liters of water and over 70,000 acres of land through our use of sustainable materials. We have also prevented over 1,000 tons of carbon dioxide emissions through our carbon offset program and focus on energy efficiency. Additionally, our ethical practices ensure that our products are made without harming the environment or the people who make them.<\/p>",
+            "content": "<p>The Fabric of Our Future™ <em>vs. cotton<\/em><\/p><p><em>✓<\/em> 0% toxic chemicals<\/p><p><em>✓<\/em> Uses 38% less CO2<\/p><p><em>✓<\/em> Uses 99% less water<\/p><p><em>✓<\/em> Contains 0% synthetics<\/p><p><em>✓<\/em> 100% biodegradable<\/p><p><em>✓<\/em> Made in a closed-loop process<\/p>",
             "style": "fill",
             "size": "xl",
             "text": "",
@@ -111,28 +132,14 @@
             "background": "",
             "text_color": ""
           }
-        },
-        "da1bea1d-c449-4f21-83c0-0a039d0b18df": {
-          "type": "divider",
-          "settings": {
-          }
-        },
-        "b7520082-bd3f-431e-813f-42122c38b236": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MOB_HERO_CollectionCard_Savex2_1bff4c34-be52-44f6-b642-d6389fe5a570.jpg",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400,
-            "right_image": false
-          }
         }
       },
       "block_order": [
-        "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-heading-1",
-        "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-richtext-1",
+        "b7520082-bd3f-431e-813f-42122c38b236",
         "da1bea1d-c449-4f21-83c0-0a039d0b18df",
-        "b7520082-bd3f-431e-813f-42122c38b236"
+        "3a1cba49-bb60-4d82-936b-93f5981b9fc7",
+        "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-heading-1",
+        "template--16178216829087__c4e1efb8-0e82-44f8-aa0e-209f4edca295-richtext-1"
       ],
       "custom_css": [
 
