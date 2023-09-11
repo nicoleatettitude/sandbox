@@ -373,6 +373,15 @@
     "02dbea39-82d4-496c-a17b-1d7599773505": {
       "type": "rich-text",
       "blocks": {
+        "7d40fd9d-5aed-4b74-ade9-ac0aa4bc8125": {
+          "type": "heading",
+          "settings": {
+            "text": "‎",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "template--16178178556063__02dbea39-82d4-496c-a17b-1d7599773505-richtext-1": {
           "type": "richtext",
           "settings": {
@@ -392,6 +401,7 @@
         }
       },
       "block_order": [
+        "7d40fd9d-5aed-4b74-ade9-ac0aa4bc8125",
         "template--16178178556063__02dbea39-82d4-496c-a17b-1d7599773505-richtext-1",
         "c662de71-fce1-42b7-ad57-2494afb9449d"
       ],
