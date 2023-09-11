@@ -7,6 +7,60 @@
         "content_width": "80ch"
       }
     },
+    "7c6ec66e-de43-4209-b4a8-31fbfc6526b3": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "df6f60f6-c9cb-4766-a8e0-5e16ce1ce446": {
+          "type": "subheading",
+          "settings": {
+            "text": "‎"
+          }
+        },
+        "template--16182880469151__7c6ec66e-de43-4209-b4a8-31fbfc6526b3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Innovating for a regenerative future",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16182880469151__7c6ec66e-de43-4209-b4a8-31fbfc6526b3-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We’re here to make a material difference in our earth’s future. <\/p><p>Ready to play your part?<\/p>"
+          }
+        },
+        "d6354317-7864-4a74-8188-b9c31003cde7": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Innovate with us",
+            "url": "mailto:sales@ettitude.com",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "df6f60f6-c9cb-4766-a8e0-5e16ce1ce446",
+        "template--16182880469151__7c6ec66e-de43-4209-b4a8-31fbfc6526b3-heading-1",
+        "template--16182880469151__7c6ec66e-de43-4209-b4a8-31fbfc6526b3-richtext-1",
+        "d6354317-7864-4a74-8188-b9c31003cde7"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/Materials_LP_DESKTOP_e0fca266-991f-4732-9ac9-6ec6889c196f.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Materials_LP_MOB_b412a7f9-b712-4f51-b2c8-0acd61993ea0.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "39518da8-d6f1-4e55-9c19-72dca2566fd5": {
       "type": "LP-rich-text",
       "blocks": {
@@ -179,6 +233,7 @@
   },
   "order": [
     "main",
+    "7c6ec66e-de43-4209-b4a8-31fbfc6526b3",
     "39518da8-d6f1-4e55-9c19-72dca2566fd5",
     "c4e1efb8-0e82-44f8-aa0e-209f4edca295",
     "8668dc1c-034b-4ece-bd0f-1f232d11be5f"
