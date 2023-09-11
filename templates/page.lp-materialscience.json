@@ -216,7 +216,7 @@
         "full_width": true,
         "content_width": "medium",
         "text_position": "start",
-        "background": "#ebede5",
+        "background": "#f2f3ef",
         "background_gradient": "",
         "text_color": "#1a1a1a"
       }
@@ -227,7 +227,7 @@
         "766e6eb6-7e49-4e38-9969-e829c2d87f2d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Not_all_equal_170590ee-7180-49f8-8267-94e52b3add96.png",
+            "image": "shopify:\/\/shop_images\/eco-innovative.png",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400,
@@ -248,7 +248,7 @@
         "a73ba2db-a242-4b16-af34-26f841b3ebb9": {
           "type": "heading",
           "settings": {
-            "text": "Meet CleanBamboo™",
+            "text": "Not all bamboo fabrics are equal",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -257,11 +257,11 @@
         "2a80e93a-97f5-4f62-9853-733385d23c99": {
           "type": "richtext",
           "settings": {
-            "content": "<p>The Fabric of Our Future™ <em>vs. cotton<\/em><\/p><p><em>✓<\/em> 0% toxic chemicals<\/p><p><em>✓<\/em> Uses 38% less CO2<\/p><p><em>✓<\/em> Uses 99% less water<\/p><p><em>✓<\/em> Contains 0% synthetics<\/p><p><em>✓<\/em> 100% biodegradable<\/p><p><em>✓<\/em> Made in a closed-loop process<\/p>",
+            "content": "<p>CleanBamboo™ is the <em>only<\/em> bamboo fabric that uses zero harmful chemicals. We use a non-toxic solvent and recycle 98% of the solution up to 200 times.<\/p><p>Compared to bamboo viscose\/rayon, CleanBamboo:<\/p><p>•<em> <\/em><strong>Uses 20% less water<\/strong><\/p><p>•<em> <\/em><strong>Uses 41% less CO2<\/strong><\/p><p><\/p>",
             "style": "fill",
             "size": "xl",
-            "text": "",
-            "url": "",
+            "text": "Learn more",
+            "url": "https:\/\/ettitude.com\/fabrics\/not-bamboo-sheets-created-equal",
             "background": "",
             "text_color": ""
           }
