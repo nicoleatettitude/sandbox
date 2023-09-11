@@ -57,30 +57,20 @@
     "39518da8-d6f1-4e55-9c19-72dca2566fd5": {
       "type": "LP-rich-text",
       "blocks": {
-        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-heading-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Our Impact",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
         "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>We're proud of the impact we've made so far, and we're excited to share it with you. Our impact report details our achievements and progress towards our sustainability goals. <\/p>",
+            "content": "<p>We are <strong>ettitude.innovation<\/strong> - a materials science company that offers our patented and carbon neutral CleanBamboo™ (bamboo lyocell) textile solutions to B2B partners. We offer both available textiles as well as custom development options from yarn to finished goods.<\/p><p>Our fabrics, processes, and solutions are rooted in nature and regeneration, and we have the stats to prove it.<em> <\/em><\/p><p><em>All impact metrics are supported by our 3rd party LCA data from BCOME.<\/em><\/p>",
             "style": "fill",
             "size": "xl",
-            "text": "Read our 2022 Impact Report",
-            "url": "shopify:\/\/pages\/about",
+            "text": "",
+            "url": "",
             "background": "",
             "text_color": ""
           }
         }
       },
       "block_order": [
-        "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-heading-1",
         "template--16178216829087__39518da8-d6f1-4e55-9c19-72dca2566fd5-richtext-1"
       ],
       "custom_css": [
@@ -91,9 +81,9 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "full_width": true,
-        "content_width": "small",
+        "content_width": "large",
         "text_position": "center",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
