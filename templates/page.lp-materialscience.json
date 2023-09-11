@@ -10,12 +10,6 @@
     "7c6ec66e-de43-4209-b4a8-31fbfc6526b3": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "df6f60f6-c9cb-4766-a8e0-5e16ce1ce446": {
-          "type": "subheading",
-          "settings": {
-            "text": "‎"
-          }
-        },
         "template--16182880469151__7c6ec66e-de43-4209-b4a8-31fbfc6526b3-heading-1": {
           "type": "heading",
           "settings": {
@@ -42,7 +36,6 @@
         }
       },
       "block_order": [
-        "df6f60f6-c9cb-4766-a8e0-5e16ce1ce446",
         "template--16182880469151__7c6ec66e-de43-4209-b4a8-31fbfc6526b3-heading-1",
         "template--16182880469151__7c6ec66e-de43-4209-b4a8-31fbfc6526b3-richtext-1",
         "d6354317-7864-4a74-8188-b9c31003cde7"
@@ -51,7 +44,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "sm",
+        "image_size": "md",
         "image": "shopify:\/\/shop_images\/Materials_LP_DESKTOP_e0fca266-991f-4732-9ac9-6ec6889c196f.jpg",
         "mobile_image": "shopify:\/\/shop_images\/Materials_LP_MOB_b412a7f9-b712-4f51-b2c8-0acd61993ea0.jpg",
         "mobile_text_position": "place-self-center text-center",
