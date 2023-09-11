@@ -258,12 +258,12 @@
           "type": "richtext",
           "settings": {
             "content": "<p>CleanBamboo™ is the <em>only<\/em> bamboo fabric that uses zero harmful chemicals. We use a non-toxic solvent and recycle 98% of the solution up to 200 times.<\/p><p>Compared to bamboo viscose\/rayon, CleanBamboo:<\/p><p>•<em> <\/em><strong>Uses 20% less water<\/strong><\/p><p>•<em> <\/em><strong>Uses 41% less CO2<\/strong><\/p><p><\/p>",
-            "style": "fill",
+            "style": "outline",
             "size": "xl",
             "text": "Learn more",
             "url": "https:\/\/ettitude.com\/fabrics\/not-bamboo-sheets-created-equal",
             "background": "",
-            "text_color": ""
+            "text_color": "#1a1a1a"
           }
         }
       },
