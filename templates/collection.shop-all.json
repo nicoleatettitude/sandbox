@@ -30,11 +30,11 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/20.png",
             "column_size": "4",
-            "title": "Signature Sateen",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<ul><li>For hot sleepers<\/li><\/ul>",
+            "content": "",
             "link_url": "",
-            "link_text": "Shop Signature Sateen",
+            "link_text": "Signature Sateen",
             "link_style": "link"
           }
         },
