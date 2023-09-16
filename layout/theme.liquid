@@ -1,21 +1,21 @@
 {%- comment -%}
-  ------------------------------------------------------------------------------------------------------------------------
-  NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing this theme as much as we did for
-    developing it. We have put a lot of work to make this theme as developer friendly as possible by offering you
-    hooks to integrate into critical parts of the theme. You will find the complete technical documentation (including
-    all events, dependencies...) in the "documentation.txt" file, located in the Assets folder.
-  ------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing this theme as much as we did for
+developing it. We have put a lot of work to make this theme as developer friendly as possible by offering you
+hooks to integrate into critical parts of the theme. You will find the complete technical documentation (including
+all events, dependencies...) in the "documentation.txt" file, located in the Assets folder.
+------------------------------------------------------------------------------------------------------------------------
 {%- endcomment -%}
 
 <!doctype html>
 
-<html class="no-js" lang="{{ request.locale.iso_code }}" dir="{% render 'direction' %}">
+<html
+  class="no-js"
+  lang="{{ request.locale.iso_code }}"
+  dir="{% render 'direction' %}">
   <head>
     <meta charset="utf-8">
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0"
-    >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="theme-color" content="{{ settings.header_background }}">
 
     <title>
@@ -23,7 +23,8 @@
         {{- shop.name -}}
       {%- else -%}
         {{- page_title -}}
-        {%- if current_page != 1 %} &ndash; {{ 'general.page' | t: page: current_page }}{% endif -%}
+        {%- if current_page != 1 %}
+          &ndash; {{ 'general.page' | t: page: current_page }}{% endif -%}
       {%- endif %}
     </title>
 
@@ -40,15 +41,28 @@
 
     {%- comment -%}Few prefetch to increase performance on commonly used third-parties{%- endcomment -%}
     <link rel="preconnect" href="https://cdn.shopify.com">
-    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+    <link
+      rel="preconnect"
+      href="https://fonts.shopifycdn.com"
+      crossorigin>
     <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
 
     {%- unless settings.heading_font.system? -%}
-      <link rel="preload" href="{{ settings.heading_font | font_url }}" as="font" type="font/woff2" crossorigin>
+      <link
+        rel="preload"
+        href="{{ settings.heading_font | font_url }}"
+        as="font"
+        type="font/woff2"
+        crossorigin>
     {%- endunless -%}
 
     {%- unless settings.text_font.system? -%}
-      <link rel="preload" href="{{ settings.text_font | font_url }}" as="font" type="font/woff2" crossorigin>
+      <link
+        rel="preload"
+        href="{{ settings.text_font | font_url }}"
+        as="font"
+        type="font/woff2"
+        crossorigin>
     {%- endunless -%}
 
     {%- render 'social-meta-tags' -%}
@@ -60,12 +74,18 @@
     <script type="module" src="{{ 'theme.js' | asset_url }}"></script>
     <script type="module" src="{{ 'sections.js' | asset_url }}"></script>
 
-    <!-- starapps_scripts_start -->
-<!-- This code is automatically managed by StarApps Studio -->
-<!-- Please contact support@starapps.studio for any help -->
-{% render "starapps-product-json", product: product, starapps_app: "VIA", starapps_attribute: "sa-product-json" %}<script type="text/javascript" src="https://bcdn.starapps.studio/apps/via/sandboxettitude/script-1692313468.js?shop={{shop.permanent_domain}}" async></script>
-<!-- starapps_scripts_end -->
-{{ content_for_header }}
+    <!-- fonts -->
+    {% include 'head_fonts' %}
+
+    <!-- Scripts -->
+    {% include 'head_scripts' %}<!-- starapps_scripts_start -->
+    <!-- This code is automatically managed by StarApps Studio -->
+    <!-- Please contact support@starapps.studio for any help -->{% render "starapps-product-json", product: product, starapps_app: "VIA", starapps_attribute: "sa-product-json" %}<script
+      type="text/javascript"
+      src="https://bcdn.starapps.studio/apps/via/sandboxettitude/script-1692313468.js?shop={{shop.permanent_domain}}"
+      async> </script>
+    <!-- starapps_scripts_end -->
+    {{ content_for_header }}
     {{- 'custom.css' | asset_url | stylesheet_tag: preload: true -}}
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
 
@@ -79,7 +99,7 @@
     {% endfor %}
 
     {% if found %}
-    {% else %}
+  {% else %}
 
     {% endif %}
 
@@ -94,7 +114,7 @@
     {% endfor %}
 
     {% if found %}
-    {% else %}
+  {% else %}
 
     {% endif %}
 
@@ -109,7 +129,7 @@
     {% endfor %}
 
     {% if found %}
-    {% else %}
+  {% else %}
 
     {% endif %}
 
@@ -124,7 +144,7 @@
     {% endfor %}
 
     {% if found %}
-    {% else %}
+  {% else %}
 
     {% endif %}
 
@@ -139,16 +159,16 @@
     {% endfor %}
 
     {% if found %}
-    {% else %}
-      {% include 'globale-js.liquid' %}
+      {% else %}
+        {% include 'globale-js.liquid' %}
     {% endif %}
-  
-  
 
-  {% include "globale-js" %}
 
-  
-</head>
+
+    {% include "globale-js" %}
+
+
+  </head>
 
   <body class="{% if settings.show_page_transition %}page-transition{% endif %} {% if settings.zoom_image_on_hover %}zoom-image--enabled{% endif %}">
     {%- render 'shadow-dom-templates' -%}
@@ -165,18 +185,21 @@
     {%- endif -%}
 
     {%- if request.page_type == 'customers/account'
-      or request.page_type == 'customers/order'
-      or request.page_type == 'customers/addresses'
-    -%}
+ or request.page_type == 'customers/order'
+ or request.page_type == 'customers/addresses'
+ -%}
       {%- section 'account-banner' -%}
     {%- endif -%}
 
-    <main role="main" id="main" class="anchor {{ template }}">
+    <main
+      role="main"
+      id="main"
+      class="anchor {{ template }}">
       {{ content_for_layout }}
 
       {%- comment -%}
-        IMPLEMENTATION NOTE: due to the very complex logic of margin/padding collapsing in Impact, the footer group is
-        added into the main element to ensure that dynamic sections added into the footer group are properly laid out.
+      IMPLEMENTATION NOTE: due to the very complex logic of margin/padding collapsing in Impact, the footer group is
+      added into the main element to ensure that dynamic sections added into the footer group are properly laid out.
       {%- endcomment -%}
       {%- if request.page_type != 'password' -%}
         {%- sections 'footer-group' -%}
