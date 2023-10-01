@@ -28,7 +28,6 @@
         "template--16163989061791__631c1b88-c72c-4634-ab45-7c13ac4b31fa-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -41,39 +40,36 @@
         "template--16163989061791__631c1b88-c72c-4634-ab45-7c13ac4b31fa-item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20.png",
             "column_size": "4",
-            "title": "Linen+",
+            "title": "",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Linen+",
             "link_style": "link"
           }
         },
         "template--16163989061791__631c1b88-c72c-4634-ab45-7c13ac4b31fa-item-3": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20.png",
             "column_size": "4",
-            "title": "Sateen+",
+            "title": "",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Sateen+",
             "link_style": "link"
           }
         },
         "6ef35cd4-9cb0-4ff5-af3c-30738fc952b1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20.png",
             "column_size": "4",
-            "title": "Vegan Cashmere",
+            "title": "",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Vegan Cashmere",
             "link_style": "link"
           }
         }
