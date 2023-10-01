@@ -45,9 +45,9 @@
             "column_size": "4",
             "title": "Linen+",
             "heading_tag": "h4",
-            "content": "<ul><li>Crisp, cool, lightweight, casual<\/li><\/ul>",
+            "content": "",
             "link_url": "",
-            "link_text": "Shop Linen+",
+            "link_text": "",
             "link_style": "link"
           }
         },
@@ -58,9 +58,9 @@
             "column_size": "4",
             "title": "Sateen+",
             "heading_tag": "h4",
-            "content": "<ul><li>For hot sleepers<\/li><\/ul>",
+            "content": "",
             "link_url": "",
-            "link_text": "Shop Sateen+",
+            "link_text": "",
             "link_style": "link"
           }
         },
@@ -71,9 +71,9 @@
             "column_size": "4",
             "title": "Vegan Cashmere",
             "heading_tag": "h4",
-            "content": "<ul><li>Plush feel and cozy bla<\/li><\/ul>",
+            "content": "",
             "link_url": "",
-            "link_text": "Shop Vegan Cashmere",
+            "link_text": "",
             "link_style": "link"
           }
         }
