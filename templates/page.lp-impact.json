@@ -26,7 +26,7 @@
             "style": "fill",
             "size": "xl",
             "text": "Read our 2022 Impact Report",
-            "url": "shopify:\/\/pages\/about",
+            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/6640\/8607\/files\/Impact2022-compressed.pdf?v=1696275396",
             "background": "",
             "text_color": ""
           }
@@ -120,9 +120,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/1_491ca52f-2717-4b46-b5c4-fea4fdca61af.png",
             "column_size": "3",
-            "title": "2022 Impact Report →",
+            "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<h4><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/6640\/8607\/files\/Impact2022-compressed.pdf?v=1696275396\" target=\"_blank\" title=\"2022 Impact Report\">2022 Impact Report →<\/a><\/h4>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -133,9 +133,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/2_1b26d88a-b59e-4eb5-8d4a-84ce78f738ec.png",
             "column_size": "3",
-            "title": "2021 Impact Report →",
+            "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<h4><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/6640\/8607\/files\/Impact2021.pdf?v=1696275341\" target=\"_blank\" title=\"2021 Impact Report\">2021 Impact Report →<\/a><\/h4>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -146,9 +146,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/2020_Impact_Report_1.png",
             "column_size": "3",
-            "title": "2020 Impact Report →",
+            "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<h4><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/6640\/8607\/files\/2020_DEC_-_Impact_Report.pdf?v=1696275341\" target=\"_blank\" title=\"2020 Impact Report\">2020 Impact Report →<\/a><\/h4>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
