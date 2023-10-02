@@ -1,1 +1,60 @@
-{"type":"custom.overlay","name":"Overlay group","sections":{"newsletter-popup":{"type":"newsletter-popup","disabled":true,"settings":{"apparition_delay":5,"show_only_on_index":false,"show_only_for_visitors":true,"show_only_once":false,"image":"shopify:\/\/shop_images\/Bedding_600x_crop_center_d6b0bd2a-6341-4fc6-8c9c-975e5ea40a78.webp","title":"Signup for our newsletter","button_text":"Subscribe","subtext":"Describe what your customers will receive when subscribing to your newsletter."}},"privacy-banner":{"type":"privacy-banner","settings":{"privacy_bar_title":"Cookie policy","privacy_bar_content":"<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"}},"cart-drawer":{"type":"cart-drawer","settings":{"show_cart_note":true,"show_shipping_text":true,"show_view_cart_button":true,"show_checkout_button":true,"recommendations_title":"Trending this month","products":["bamboo-lyocell-sheet-set","waffle-hair-towel","waffle-towel-set","bamboo-lyocell-fitted-sheet"],"product_card_background":"#f0f0f0","product_card_text_color":""}},"search-drawer":{"type":"search-drawer","settings":{"full_width":true,"show_article_category":false,"search_menu":"featured","search_menu_show_title":true}}},"order":["newsletter-popup","privacy-banner","cart-drawer","search-drawer"]}
+{
+  "type": "custom.overlay",
+  "name": "Overlay group",
+  "sections": {
+    "newsletter-popup": {
+      "type": "newsletter-popup",
+      "disabled": true,
+      "settings": {
+        "apparition_delay": 5,
+        "show_only_on_index": false,
+        "show_only_for_visitors": true,
+        "show_only_once": false,
+        "image": "shopify:\/\/shop_images\/Bedding_600x_crop_center_d6b0bd2a-6341-4fc6-8c9c-975e5ea40a78.webp",
+        "title": "Signup for our newsletter",
+        "button_text": "Subscribe",
+        "subtext": "Describe what your customers will receive when subscribing to your newsletter."
+      }
+    },
+    "privacy-banner": {
+      "type": "privacy-banner",
+      "settings": {
+        "privacy_bar_title": "Cookie policy",
+        "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+      }
+    },
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "settings": {
+        "show_cart_note": false,
+        "show_shipping_text": true,
+        "show_view_cart_button": true,
+        "show_checkout_button": true,
+        "recommendations_title": "Best sellers",
+        "products": [
+          "bamboo-lyocell-sheet-set",
+          "waffle-hair-towel",
+          "waffle-towel-set",
+          "bamboo-lyocell-fitted-sheet"
+        ],
+        "product_card_background": "#f0f0f0",
+        "product_card_text_color": ""
+      }
+    },
+    "search-drawer": {
+      "type": "search-drawer",
+      "settings": {
+        "full_width": true,
+        "show_article_category": false,
+        "search_menu": "featured",
+        "search_menu_show_title": true
+      }
+    }
+  },
+  "order": [
+    "newsletter-popup",
+    "privacy-banner",
+    "cart-drawer",
+    "search-drawer"
+  ]
+}
