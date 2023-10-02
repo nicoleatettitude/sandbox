@@ -241,7 +241,8 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "sheet-sets",
+            "collection": "bedding",
+            "image": "shopify:\/\/shop_images\/Collection_-_Bedding_2.png",
             "subheading": "",
             "title": "‎",
             "url": "",
@@ -255,7 +256,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "shop-all",
+            "collection": "bath",
+            "image": "shopify:\/\/shop_images\/Collection_-_Bath_2.png",
             "subheading": "",
             "title": "‎",
             "url": "",
@@ -269,7 +271,8 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "shop-all",
+            "collection": "loungewear",
+            "image": "shopify:\/\/shop_images\/Collection_-_Loungewear_1.png",
             "subheading": "",
             "title": "‎",
             "url": "",
