@@ -344,6 +344,7 @@
         "4adb1113-c902-47b5-9bec-5ec0d8841169",
         "bfeccde3-e429-4fe7-ad74-51c734f42427"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
