@@ -75,7 +75,6 @@
         "afadb848-35e0-4725-a94a-26d9ef86ae76": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Seal.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -88,7 +87,6 @@
         "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Icon.png",
             "column_size": "4",
             "title": "SCIENTIFICALLY PROVEN TO HELP YOU REST",
             "heading_tag": "h5",
@@ -101,7 +99,6 @@
         "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Icon_1.png",
             "column_size": "4",
             "title": "NATURALLY COOLING & BREATHABLE",
             "heading_tag": "h5",
@@ -114,7 +111,6 @@
         "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-3": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Icon_2.png",
             "column_size": "4",
             "title": "DERIVED FROM RENEWABLE PLANT RESOURCES",
             "heading_tag": "h5",
@@ -152,7 +148,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify:\/\/shop_images\/Seal.png",
             "mobile_icon_width": 120,
             "icon_width": 120,
             "icon_background_type": "none",
@@ -166,7 +161,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify:\/\/shop_images\/Icon.png",
             "mobile_icon_width": 52,
             "icon_width": 40,
             "icon_background_type": "none",
@@ -180,7 +174,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify:\/\/shop_images\/Icon_2.png",
             "mobile_icon_width": 52,
             "icon_width": 40,
             "icon_background_type": "none",
@@ -194,7 +187,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify:\/\/shop_images\/Icon_1.png",
             "mobile_icon_width": 52,
             "icon_width": 40,
             "icon_background_type": "none",
@@ -318,7 +310,6 @@
           "type": "collection",
           "settings": {
             "collection": "sheet-sets",
-            "image": "shopify:\/\/shop_images\/Collection_-_Bedding.png",
             "subheading": "",
             "title": "‎",
             "url": "",
@@ -333,7 +324,6 @@
           "type": "collection",
           "settings": {
             "collection": "shop-all",
-            "image": "shopify:\/\/shop_images\/Collection_-_Bath.png",
             "subheading": "",
             "title": "‎",
             "url": "",
@@ -348,7 +338,6 @@
           "type": "collection",
           "settings": {
             "collection": "shop-all",
-            "image": "shopify:\/\/shop_images\/Collection_-_Baby.png",
             "subheading": "",
             "title": "‎",
             "url": "",
@@ -438,7 +427,6 @@
         "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Review_Img.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -510,7 +498,6 @@
         "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-1": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/image_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -518,7 +505,6 @@
         "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/image_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -526,7 +512,6 @@
         "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/image_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -534,7 +519,6 @@
         "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/image_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -542,7 +526,6 @@
         "2b979629-4042-4aa7-b302-36f94bdc03ac": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/image_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -577,7 +560,6 @@
         "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_4098.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -590,7 +572,6 @@
         "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Module_02.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -603,7 +584,6 @@
         "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Module_03.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -638,7 +618,6 @@
         "template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Section_08__IG_Feed.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
