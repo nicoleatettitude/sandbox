@@ -10,6 +10,7 @@
         },
         "27c4a2f6-1ee4-40d3-8557-f82286023d86": {
           "type": "comments",
+          "disabled": true,
           "settings": {
             "show_gravatar": true,
             "comments_per_page": 5
