@@ -364,10 +364,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+            "rating": 5,
+            "author": "Jody. R",
+            "title": "",
+            "content": "<p>“I had no idea what they would actually feel like, but I took a chance. I could not be happier. These are the best sheets I’ve ever had. They are so deliciously soft, without feeling slippery. I love how it feels to get into my bed.”<\/p>"
           }
         },
         "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2": {
@@ -376,9 +376,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+            "author": "Maris Y.",
+            "title": "",
+            "content": "<p>“I look forward to slipping into this after every shower. The fabric is absolutely amazing, absorbent, quick drying and seems to always smell good. I was never a robe-after-shower person before, but this one is a game changer. Worth every penny.”<\/p>"
           }
         },
         "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3": {
@@ -387,28 +387,16 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
-          }
-        },
-        "17b7b566-40e2-424a-a497-9dbfb72f60d7": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+            "author": "Henna S.",
+            "title": "",
+            "content": "<p>“I don’t wear silk but have been waiting for pajamas that are a close match. Cotton just doesn’t cut it. I’m hooked!”<\/p>"
           }
         }
       },
       "block_order": [
         "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1",
         "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2",
-        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3",
-        "17b7b566-40e2-424a-a497-9dbfb72f60d7"
+        "template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3"
       ],
       "settings": {
         "full_width": false,
