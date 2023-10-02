@@ -44,7 +44,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "shop-all",
+        "collection": "all",
         "products": [
 
         ],
