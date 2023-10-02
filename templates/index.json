@@ -69,82 +69,6 @@
         "hide_price": true
       }
     },
-    "8b77124b-537e-4ac6-b86e-f44e71b93041": {
-      "type": "multi-column",
-      "blocks": {
-        "afadb848-35e0-4725-a94a-26d9ef86ae76": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Seal_1.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Icon_3.png",
-            "column_size": "4",
-            "title": "SCIENTIFICALLY PROVEN TO HELP YOU REST",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Icon_1.png",
-            "column_size": "4",
-            "title": "NATURALLY COOLING & BREATHABLE",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Icon_2.png",
-            "column_size": "4",
-            "title": "DERIVED FROM RENEWABLE PLANT RESOURCES",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "afadb848-35e0-4725-a94a-26d9ef86ae76",
-        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-1",
-        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-2",
-        "template--16163989323935__8b77124b-537e-4ac6-b86e-f44e71b93041-item-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#e7ebe2",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "0bd0a4c7-7916-406a-8163-aaa34b38bfcc": {
       "type": "text-with-icons",
       "blocks": {
@@ -152,6 +76,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Seal_1.png",
             "mobile_icon_width": 120,
             "icon_width": 120,
             "icon_background_type": "none",
@@ -165,6 +90,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Icon_3.png",
             "mobile_icon_width": 52,
             "icon_width": 40,
             "icon_background_type": "none",
@@ -178,6 +104,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Icon_1.png",
             "mobile_icon_width": 52,
             "icon_width": 40,
             "icon_background_type": "none",
@@ -191,6 +118,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Icon_2.png",
             "mobile_icon_width": 52,
             "icon_width": 40,
             "icon_background_type": "none",
@@ -659,7 +587,6 @@
   "order": [
     "slideshow",
     "featured-collection",
-    "8b77124b-537e-4ac6-b86e-f44e71b93041",
     "0bd0a4c7-7916-406a-8163-aaa34b38bfcc",
     "93bf31c5-205c-48ec-84c9-c3f69b5616b6",
     "8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea",
