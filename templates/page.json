@@ -1,5 +1,43 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "rich_text_w7htMr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HrRC9V": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HrRC9V"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {padding: 10px;}"
+      ],
+      "settings": {
+        "class": "",
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "right_image": false
+      }
+    },
     "170655616955f42e4e": {
       "type": "apps",
       "blocks": {
@@ -25,58 +63,11 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "content_width": "80ch"
-      }
-    },
-    "rich_text_w7htMr": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_NMYnD8": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_HrRC9V": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_KzaLF3": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_NMYnD8",
-        "heading_HrRC9V",
-        "richtext_KzaLF3"
-      ],
-      "settings": {
-        "class": "",
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "right_image": false
-      }
     }
   },
   "order": [
-    "170655616955f42e4e",
     "main",
-    "rich_text_w7htMr"
+    "rich_text_w7htMr",
+    "170655616955f42e4e"
   ]
 }
