@@ -296,6 +296,16 @@
     "169139421992181979": {
       "type": "apps",
       "blocks": {
+        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
+        },
+        "bundles_upsell_pickystory_fbt_widget_tYxXLF": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
+        },
         "4adb1113-c902-47b5-9bec-5ec0d8841169": {
           "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
@@ -328,23 +338,13 @@
             "use_metafields": false,
             "sku_tagtype": "sku"
           }
-        },
-        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt": {
-          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
-          "settings": {
-          }
-        },
-        "bundles_upsell_pickystory_fbt_widget_tYxXLF": {
-          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
-          "settings": {
-          }
         }
       },
       "block_order": [
-        "4adb1113-c902-47b5-9bec-5ec0d8841169",
-        "bfeccde3-e429-4fe7-ad74-51c734f42427",
         "bundles_upsell_pickystory_byob_inline_widget_EDYCEt",
-        "bundles_upsell_pickystory_fbt_widget_tYxXLF"
+        "bundles_upsell_pickystory_fbt_widget_tYxXLF",
+        "4adb1113-c902-47b5-9bec-5ec0d8841169",
+        "bfeccde3-e429-4fe7-ad74-51c734f42427"
       ],
       "settings": {
         "full_width": true,
