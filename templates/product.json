@@ -144,6 +144,16 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "bundles_upsell_pickystory_byob_inline_widget_Bnkneh": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
+        },
+        "bundles_upsell_pickystory_fbt_widget_YKc6jT": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -164,7 +174,9 @@
         "1d9ce1f8-ca93-4c5f-885f-71f5a088c260",
         "df323017-f1c9-4a66-9314-61140fa70a7d",
         "3ec704e5-ea31-448e-af13-0ff4e00d4a03",
-        "1a96a3a6-ec40-4348-b47d-9aea4e631ca9"
+        "1a96a3a6-ec40-4348-b47d-9aea4e631ca9",
+        "bundles_upsell_pickystory_byob_inline_widget_Bnkneh",
+        "bundles_upsell_pickystory_fbt_widget_YKc6jT"
       ],
       "settings": {
         "full_width": true,
