@@ -184,17 +184,58 @@
         "input_text_color": ""
       }
     },
-    "170655456166a447dc": {
+    "169139421992181979": {
       "type": "apps",
       "blocks": {
-        "bundles_upsell_pickystory_fbt_widget_GX7R8G": {
+        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
+        },
+        "bundles_upsell_pickystory_fbt_widget_tYxXLF": {
           "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
           "settings": {
+          }
+        },
+        "4adb1113-c902-47b5-9bec-5ec0d8841169": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "Real Reviews from Real Customers",
+            "auto_play": false,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        },
+        "bfeccde3-e429-4fe7-ad74-51c734f42427": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
           }
         }
       },
       "block_order": [
-        "bundles_upsell_pickystory_fbt_widget_GX7R8G"
+        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt",
+        "bundles_upsell_pickystory_fbt_widget_tYxXLF",
+        "4adb1113-c902-47b5-9bec-5ec0d8841169",
+        "bfeccde3-e429-4fe7-ad74-51c734f42427"
       ],
       "settings": {
         "full_width": true,
@@ -204,7 +245,7 @@
         "background_gradient": "",
         "text_color": "",
         "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
@@ -282,6 +323,7 @@
         "template--16163989553311__80967f2e-ef73-4e84-bc23-7a2bef7bcad2-item-1",
         "template--16163989553311__80967f2e-ef73-4e84-bc23-7a2bef7bcad2-item-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "stack_on_mobile": false,
@@ -318,82 +360,14 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "169139421992181979": {
-      "type": "apps",
-      "blocks": {
-        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt": {
-          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
-          "settings": {
-          }
-        },
-        "bundles_upsell_pickystory_fbt_widget_tYxXLF": {
-          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
-          "settings": {
-          }
-        },
-        "4adb1113-c902-47b5-9bec-5ec0d8841169": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "title": "Real Reviews from Real Customers",
-            "auto_play": false,
-            "take": 30,
-            "color_title": "",
-            "color_star": "",
-            "color_text": "",
-            "color_link": "",
-            "review_ids": "",
-            "product_ids": "",
-            "category": "",
-            "product_brand": "",
-            "tags": "",
-            "min_rating": "none",
-            "fill_empty": false,
-            "random": false,
-            "with_photos": false
-          }
-        },
-        "bfeccde3-e429-4fe7-ad74-51c734f42427": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt",
-        "bundles_upsell_pickystory_fbt_widget_tYxXLF",
-        "4adb1113-c902-47b5-9bec-5ec0d8841169",
-        "bfeccde3-e429-4fe7-ad74-51c734f42427"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
     "main",
-    "170655456166a447dc",
+    "169139421992181979",
     "ca3cccb1-7ff9-4cfd-94d7-f86b3c64c4b8",
     "6832ce17-5c6b-417f-8eaf-cda28325d245",
     "80967f2e-ef73-4e84-bc23-7a2bef7bcad2",
-    "related-products",
-    "169139421992181979"
+    "related-products"
   ]
 }
