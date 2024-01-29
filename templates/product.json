@@ -201,6 +201,7 @@
       "blocks": {
         "bundles_upsell_pickystory_byob_inline_widget_EDYCEt": {
           "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "disabled": true,
           "settings": {
           }
         },
