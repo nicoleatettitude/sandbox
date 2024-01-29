@@ -184,6 +184,32 @@
         "input_text_color": ""
       }
     },
+    "170655456166a447dc": {
+      "type": "apps",
+      "blocks": {
+        "bundles_upsell_pickystory_fbt_widget_GX7R8G": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "bundles_upsell_pickystory_fbt_widget_GX7R8G"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "ca3cccb1-7ff9-4cfd-94d7-f86b3c64c4b8": {
       "type": "rich-text",
       "blocks": {
@@ -363,6 +389,7 @@
   },
   "order": [
     "main",
+    "170655456166a447dc",
     "ca3cccb1-7ff9-4cfd-94d7-f86b3c64c4b8",
     "6832ce17-5c6b-417f-8eaf-cda28325d245",
     "80967f2e-ef73-4e84-bc23-7a2bef7bcad2",
