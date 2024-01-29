@@ -66,15 +66,6 @@
             "text_color": ""
           }
         },
-        "07521f56-3480-4e72-bd31-5fe4a8f10554": {
-          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
-          "settings": {
-            "enabled": true,
-            "id": "104443",
-            "product_id_enabled": true,
-            "collection_id_enabled": false
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -165,7 +156,6 @@
         "separator",
         "variant_picker",
         "c167ef75-14d1-4214-ba43-650045d05671",
-        "07521f56-3480-4e72-bd31-5fe4a8f10554",
         "quantity_selector",
         "buy_buttons",
         "fc21137b-c50e-4e2f-b0df-d66be2690a06",
@@ -338,11 +328,23 @@
             "use_metafields": false,
             "sku_tagtype": "sku"
           }
+        },
+        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
+        },
+        "bundles_upsell_pickystory_fbt_widget_tYxXLF": {
+          "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "4adb1113-c902-47b5-9bec-5ec0d8841169",
-        "bfeccde3-e429-4fe7-ad74-51c734f42427"
+        "bfeccde3-e429-4fe7-ad74-51c734f42427",
+        "bundles_upsell_pickystory_byob_inline_widget_EDYCEt",
+        "bundles_upsell_pickystory_fbt_widget_tYxXLF"
       ],
       "settings": {
         "full_width": true,
