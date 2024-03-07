@@ -79,7 +79,14 @@
         },
         "bundles_upsell_pickystory_fbt_widget_YKc6jT": {
           "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "disabled": true,
           "settings": {
+          }
+        },
+        "qikify_upsell_bundle_bundle_offer_9RzA98": {
+          "type": "shopify:\/\/apps\/qikify-upsell-bundle\/blocks\/bundle_offer\/2e94b962-8172-4839-8ad9-7837eb8b017a",
+          "settings": {
+            "product": "{{product}}"
           }
         },
         "buy_buttons": {
@@ -170,6 +177,7 @@
         "quantity_selector",
         "bundles_upsell_pickystory_byob_inline_widget_Bnkneh",
         "bundles_upsell_pickystory_fbt_widget_YKc6jT",
+        "qikify_upsell_bundle_bundle_offer_9RzA98",
         "buy_buttons",
         "fc21137b-c50e-4e2f-b0df-d66be2690a06",
         "085573d6-60cb-4432-97ca-6c06436d326b",
@@ -200,6 +208,12 @@
     "169139421992181979": {
       "type": "apps",
       "blocks": {
+        "qikify_upsell_bundle_bundle_offer_n9DD4G": {
+          "type": "shopify:\/\/apps\/qikify-upsell-bundle\/blocks\/bundle_offer\/2e94b962-8172-4839-8ad9-7837eb8b017a",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "bundles_upsell_pickystory_byob_inline_widget_EDYCEt": {
           "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/byob-inline-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
           "disabled": true,
@@ -208,6 +222,7 @@
         },
         "bundles_upsell_pickystory_fbt_widget_tYxXLF": {
           "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/fbt-widget\/f54ff67e-3f69-4df2-845e-7476ce633252",
+          "disabled": true,
           "settings": {
           }
         },
@@ -246,6 +261,7 @@
         }
       },
       "block_order": [
+        "qikify_upsell_bundle_bundle_offer_n9DD4G",
         "bundles_upsell_pickystory_byob_inline_widget_EDYCEt",
         "bundles_upsell_pickystory_fbt_widget_tYxXLF",
         "4adb1113-c902-47b5-9bec-5ec0d8841169",
