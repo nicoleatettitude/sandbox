@@ -1,1 +1,93 @@
-{"sections":{"main":{"type":"main-cart","blocks":{"totals":{"type":"totals","settings":{"show_order_weight":false,"show_shipping_text":true}},"cart_note":{"type":"cart_note","settings":{}},"checkout_button":{"type":"checkout_button","settings":{}},"fd15920a-03fe-44cb-90d6-c95ff6c87b30":{"type":"accelerated_buttons","settings":{}}},"block_order":["totals","cart_note","checkout_button","fd15920a-03fe-44cb-90d6-c95ff6c87b30"],"settings":{"show_shipping_estimator":true,"show_payment_icons":true}},"0cdbd3dd-98d5-4861-abea-39f5b2e0d64a":{"type":"recently-viewed-products","settings":{"full_width":true,"products_count":6,"stack_products":false,"show_progress_bar":false,"products_per_row_mobile":"1","products_per_row_desktop":3,"subheading":"","title":"Recently viewed products","content":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}}},"order":["main","0cdbd3dd-98d5-4861-abea-39f5b2e0d64a"]}
+{
+  "sections": {
+    "1710197564bd2016bc": {
+      "type": "apps",
+      "blocks": {
+        "qikify_upsell_bundle_cart_widget_bQKfVr": {
+          "type": "shopify:\/\/apps\/qikify-upsell-bundle\/blocks\/cart_widget\/2e94b962-8172-4839-8ad9-7837eb8b017a",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "qikify_upsell_bundle_cart_widget_bQKfVr"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-cart",
+      "blocks": {
+        "totals": {
+          "type": "totals",
+          "settings": {
+            "show_order_weight": false,
+            "show_shipping_text": true
+          }
+        },
+        "cart_note": {
+          "type": "cart_note",
+          "settings": {
+          }
+        },
+        "checkout_button": {
+          "type": "checkout_button",
+          "settings": {
+          }
+        },
+        "fd15920a-03fe-44cb-90d6-c95ff6c87b30": {
+          "type": "accelerated_buttons",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "totals",
+        "cart_note",
+        "checkout_button",
+        "fd15920a-03fe-44cb-90d6-c95ff6c87b30"
+      ],
+      "settings": {
+        "show_shipping_estimator": true,
+        "show_payment_icons": true
+      }
+    },
+    "0cdbd3dd-98d5-4861-abea-39f5b2e0d64a": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "full_width": true,
+        "products_count": 6,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "1710197564bd2016bc",
+    "main",
+    "0cdbd3dd-98d5-4861-abea-39f5b2e0d64a"
+  ]
+}
