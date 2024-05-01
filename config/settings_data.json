@@ -57,6 +57,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "10094939926959154668": {
+        "type": "shopify:\/\/apps\/pairbo\/blocks\/app_block\/1960d310-bb58-48fd-98e5-da5bca16e6d7",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
