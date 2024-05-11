@@ -166,7 +166,14 @@
 
                   {%- when 'checkout_button' -%}
                     {%- assign checkout_button = 'cart.general.checkout' | t -%}
-                    {%- render 'button', type: 'submit', icon: 'picto-lock', content: checkout_button, size: 'xl', name: 'checkout', stretch: true, block: block -%}
+                    {% comment %}{%- render 'button', type: 'submit', icon: 'picto-lock', content: checkout_button, size: 'xl', name: 'checkout', stretch: true, block: block -%}{% endcomment %}
+
+                    <button type="submit" class="button button--xl w-full" name="checkout" id="checkout"><div><div>
+                      <div class="text-with-icon justify-center">
+                      {%- render 'icon' with icon, width: 18, height: 18 -%}
+                    </div>
+                    {{ checkout_button }}
+                  </button>
                 {%- endcase -%}
               {%- endfor -%}
             </form>

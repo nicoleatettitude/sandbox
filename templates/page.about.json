@@ -385,7 +385,7 @@
         "template--16178178556063__02dbea39-82d4-496c-a17b-1d7599773505-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>RETHINK TODAY. <\/h1><h1>REIMAGINE <em>TOMORROW<\/em>.<\/h1>"
+            "content": "<h1>RETHINK TODAY.\u2028<\/h1><h1>REIMAGINE <em>TOMORROW<\/em>.<\/h1>"
           }
         },
         "c662de71-fce1-42b7-ad57-2494afb9449d": {
@@ -434,7 +434,7 @@
         "template--16178178556063__dd935959-241d-4256-8c03-00d27ecd8973-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<h3>Ettitude is a material innovation company making the world's most luxurious sustainable textiles with our patented FutureFiber® Technology.<\/h3>"
+            "content": "<h3>Ettitude is a material innovation company making the world's\u2028most luxurious sustainable textiles with our patented\u2028FutureFiber® Technology.<\/h3>"
           }
         }
       },
@@ -564,7 +564,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": false,
-        "title": "CERTIFIED BETTER FOR YOU AND PLANET",
+        "title": "CERTIFIED BETTER FOR YOU\u2028AND PLANET",
         "content": "",
         "text_alignment": "start",
         "items_per_row": 5,
@@ -589,7 +589,7 @@
         "5d2b133a-70a5-4c48-90c5-87bfc4aba913": {
           "type": "richtext",
           "settings": {
-            "content": "<p>We partner with like-minded industries who share our desire to do better. Our diverse range of innovative material solutions were designed to scale your business and reduce your environmental impact.  Because positive change is a group effort. <\/p>"
+            "content": "<p>We partner with like-minded industries who share our desire to do better. Our diverse range of innovative material solutions were designed to scale your business and reduce your environmental impact. \u2028Because positive change is a group effort. <\/p>"
           }
         },
         "c7dacc65-0d27-4473-8f24-3d853aeac163": {
@@ -674,7 +674,7 @@
         "template--16178178556063__fc80987e-4966-4e68-88e7-74bd50e0254c-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Our mission? Regeneration for a new generation —innovating next-gen fabrics that reduce our impact and support the health of the planet. By making a material difference in the home & textiles industries, we can create a more sustainable future for everybody.<\/p>",
+            "content": "<p>Our mission? Regeneration for a new generation\u2028—innovating next-gen fabrics that reduce\u2028our impact and support the health of the planet.\u2028By making a material difference in the home\u2028& textiles industries, we can create a more\u2028sustainable future for everybody.<\/p>",
             "style": "fill",
             "size": "xl",
             "text": "",
@@ -724,7 +724,7 @@
           "type": "item",
           "settings": {
             "column_size": "4",
-            "title": "A Regenerative Future Starts at Home",
+            "title": "A Regenerative\u2028Future Starts\u2028at Home",
             "heading_tag": "h2",
             "content": "<p>Wrap yourself in revitalization.<\/p>",
             "link_url": "",
