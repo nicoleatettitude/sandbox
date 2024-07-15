@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "section_vertical_spacing": "medium",
@@ -52,12 +61,6 @@
 
     ],
     "blocks": {
-      "10094939926959154668": {
-        "type": "shopify:\/\/apps\/pairbo\/blocks\/app_block\/1960d310-bb58-48fd-98e5-da5bca16e6d7",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "10641372206048101839": {
         "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-global-embed\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
         "disabled": false,
