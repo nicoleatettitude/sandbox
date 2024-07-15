@@ -20,10 +20,17 @@
             "product_id_enabled": true,
             "collection_id_enabled": false
           }
+        },
+        "pairbo_counter_dgdkAW": {
+          "type": "shopify:\/\/apps\/pairbo\/blocks\/counter\/9cdbf5c3-b26b-4494-81a2-3140bb8b1c0a",
+          "settings": {
+            "cards-collection": ""
+          }
         }
       },
       "block_order": [
-        "rebuy_personalization_engine_rebuy_widget_4kU76x"
+        "rebuy_personalization_engine_rebuy_widget_4kU76x",
+        "pairbo_counter_dgdkAW"
       ],
       "settings": {
         "full_width": true,
@@ -42,12 +49,6 @@
     "main": {
       "type": "main-cart",
       "blocks": {
-        "pairbo_counter_3pWrVL": {
-          "type": "shopify:\/\/apps\/pairbo\/blocks\/counter\/9cdbf5c3-b26b-4494-81a2-3140bb8b1c0a",
-          "settings": {
-            "cards-collection": ""
-          }
-        },
         "totals": {
           "type": "totals",
           "settings": {
@@ -72,7 +73,6 @@
         }
       },
       "block_order": [
-        "pairbo_counter_3pWrVL",
         "totals",
         "cart_note",
         "checkout_button",
