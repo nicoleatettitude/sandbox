@@ -66,6 +66,12 @@
           "settings": {
           }
         },
+        "pairbo_counter_4XNxCK": {
+          "type": "shopify:\/\/apps\/pairbo\/blocks\/counter\/9cdbf5c3-b26b-4494-81a2-3140bb8b1c0a",
+          "settings": {
+            "cards-collection": ""
+          }
+        },
         "fd15920a-03fe-44cb-90d6-c95ff6c87b30": {
           "type": "accelerated_buttons",
           "settings": {
@@ -76,11 +82,28 @@
         "totals",
         "cart_note",
         "checkout_button",
+        "pairbo_counter_4XNxCK",
         "fd15920a-03fe-44cb-90d6-c95ff6c87b30"
       ],
       "settings": {
         "show_shipping_estimator": true,
         "show_payment_icons": true
+      }
+    },
+    "1721071339211b94ca": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
       }
     },
     "1710197564bd2016bc": {
@@ -124,6 +147,7 @@
   "order": [
     "1712861735ca5ff2fe",
     "main",
+    "1721071339211b94ca",
     "1710197564bd2016bc",
     "0cdbd3dd-98d5-4861-abea-39f5b2e0d64a"
   ]
