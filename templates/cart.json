@@ -54,8 +54,8 @@
           "settings": {
           }
         },
-        "pairbo_counter_wiMtCp": {
-          "type": "shopify:\/\/apps\/pairbo\/blocks\/counter\/9cdbf5c3-b26b-4494-81a2-3140bb8b1c0a",
+        "pairbo_app_block_cart_page_qiiyaC": {
+          "type": "shopify:\/\/apps\/pairbo\/blocks\/app_block-cart_page\/9cdbf5c3-b26b-4494-81a2-3140bb8b1c0a",
           "settings": {
             "cards-collection": ""
           }
@@ -74,7 +74,7 @@
       "block_order": [
         "totals",
         "cart_note",
-        "pairbo_counter_wiMtCp",
+        "pairbo_app_block_cart_page_qiiyaC",
         "checkout_button",
         "fd15920a-03fe-44cb-90d6-c95ff6c87b30"
       ],
