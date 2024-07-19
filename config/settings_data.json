@@ -66,6 +66,15 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "15782233720847124658": {
+        "type": "shopify:\/\/apps\/pairbo\/blocks\/app_embed-drawer_cart\/9cdbf5c3-b26b-4494-81a2-3140bb8b1c0a",
+        "disabled": false,
+        "settings": {
+          "cards-collection": "",
+          "show_cart": true,
+          "cart_container": ""
+        }
       }
     }
   },
